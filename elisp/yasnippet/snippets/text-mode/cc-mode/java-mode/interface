@@ -1,0 +1,5 @@
+#name : interface ... { ... }
+# --
+interface ${1:Name} {
+    $0
+}

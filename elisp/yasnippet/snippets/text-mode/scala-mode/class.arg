@@ -1,0 +1,5 @@
+#name : class ...(arg: T) { ... }
+# --
+class ${1:Name}(${2:args}) {
+  $0
+}

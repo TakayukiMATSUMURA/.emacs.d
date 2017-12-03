@@ -1,0 +1,7 @@
+#name : class ... { ... }
+# --
+public class ${1:Name} {
+    public static ${1:$(yas/substr text "[^: ]*")}($2) {
+        $0
+    }
+}

@@ -1,0 +1,5 @@
+# -*- mode: snippet -*-
+# --
+protected virtual void Update () {
+    $0
+}

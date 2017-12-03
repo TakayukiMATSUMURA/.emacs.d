@@ -1,0 +1,3 @@
+#name : delegate ReturnType DelegateName (Args)
+# --
+delegate ${1:void} ${2:DelegateName} ($3);

@@ -1,0 +1,5 @@
+#name : inpl ... { ... }
+# --
+public class ${1:Name} implements ${2:Name} {
+    $0
+}

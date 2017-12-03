@@ -1,0 +1,3 @@
+# -*- mode: snippet -*-
+# --
+Debug.Log($1);

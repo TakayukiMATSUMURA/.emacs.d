@@ -1,0 +1,3448 @@
+((("function" .
+   [1 0 0 0 0 0 0 0])
+  ("$scope" .
+   [3 0 1 0 0 0])
+  ("STDIN" .
+   [1 0 0 0 0])
+  ("isFourCards" .
+   [1 0 0 0 0 3 0 0 0 0 0])
+  ("MiniJson" .
+   [0 0 0 0 0 1 0 0])
+  ("send" .
+   [1 0 0 0])
+  ("Suits" .
+   [3 0 0 0 0])
+  ("FieldName" .
+   [0 0 0 0 0 0 0 0 2])
+  ("response" .
+   [1 0 0 0 0 0 0 0])
+  ("worst" .
+   [2 0 0 0 0])
+  ("to_f" .
+   [2 0 0 0])
+  ("round" .
+   [1 0 0 0 0])
+  ("diamond" .
+   [0 0 0 0 1 0 0])
+  ("club" .
+   [1 0 0 0])
+  ("heart" .
+   [3 0 0 0 0])
+  ("spade" .
+   [3 0 0 0 0])
+  ("winners" .
+   [3 0 0 0 0 0 0])
+  ("reject" .
+   [2 0 0 0 0 0])
+  ("current_winner" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("sort_by" .
+   [1 0 0 0 0 0 0])
+  ("define_singleton_method" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("winner" .
+   [12 0 0 0 0 0])
+  ("win_percent" .
+   [0 0 0 0 0 1 0 2 0 0 0])
+  ("tmp_hand" .
+   [0 0 0 0 0 0 0 1])
+  ("pocket" .
+   [1 0 0 0 0 0])
+  ("h" .
+   [1])
+  ("players" .
+   [17 0 0 0 0 0 0])
+  ("calc_win_percent" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("receive" .
+   [0 0 0 1 0 0 0])
+  ("player0" .
+   [2 0 0 0 0 0 0])
+  ("elixir" .
+   [1 0 0 0 0 0])
+  ("RemoveAll" .
+   [0 0 0 0 0 0 1 0 0])
+  ("_modelFields" .
+   [0 0 0 0 0 0 0 0 0 0 2 0])
+  ("_modelName" .
+   [1 0 0 0 0 0 1 0 0 1])
+  ("Star" .
+   [1 0 0 0])
+  ("NotificationIcon" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("$url" .
+   [2 0 0 0])
+  ("Balance" .
+   [1 0 0 0 0 0 0])
+  ("_passwordInpufField" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("_userNameInputField" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("SignUp" .
+   [3 0 0 0 0 1])
+  ("AddColorTag" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("_errorMessage" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("_userID" .
+   [3 0 0 0 0 0 1])
+  ("userID" .
+   [4 0 0 0 0 0])
+  ("UserName" .
+   [2 0 0 0 0 0 0 0])
+  ("ID" .
+   [2 0])
+  ("histories" .
+   [1 0 0 0 0 0 0 0 0])
+  ("messages" .
+   [1 0 0 0 0 0 0 0])
+  ("wssv" .
+   [2 0 0 0])
+  ("8080" .
+   [3 0 0 0])
+  ("Echo" .
+   [1 0 0 0])
+  (":follower" .
+   [1 0 0 0 0 0 0 0 0])
+  ("attack" .
+   [1 0 0 0 0 0])
+  ("inject" .
+   [3 0 0 0 0 0])
+  (":deck" .
+   [2 0 0 0 0])
+  (":hand" .
+   [2 0 0 0 0])
+  ("follower" .
+   [1 0 0 0 0 0 0 0])
+  ("card_class" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("Fairy" .
+   [0 0 0 0 1])
+  ("Follower" .
+   [0 0 0 0 0 1 0 0])
+  ("die" .
+   [1 0 0])
+  ("to_a" .
+   [1 0 0 0])
+  ("uniq" .
+   [1 0 0 0])
+  ("candidates" .
+   [4 0 0 0 0 0 0 0 0 0])
+  ("what" .
+   [1 0 0 0])
+  ("random?" .
+   [2 0 0 0 0 0 0])
+  ("enemy" .
+   [3 0 0 0 0])
+  ("WaterFairy" .
+   [0 0 0 0 0 1 1 0 0 0])
+  ("_info" .
+   [3 0 0 0 0])
+  ("PokemonInfo" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("Gray" .
+   [1 0 0 0])
+  ("_phase" .
+   [1 0 0 0 3 0])
+  ("PreFlop" .
+   [0 0 0 3 0 1 0])
+  ("Phase" .
+   [5 0 1 1 0])
+  ("River" .
+   [4 0 0 0 0])
+  ("Turn" .
+   [4 0 0 0])
+  ("5f" .
+   [1 0])
+  ("5" .
+   [1])
+  ("dealingCard" .
+   [0 0 0 0 0 0 1 0 0 0 2])
+  ("destination" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("onFinishDeal" .
+   [2 0 0 0 0 0 1 0 1 0 0 0])
+  ("OnFinishDeal" .
+   [0 0 0 0 0 0 1 0 0 0 0 1])
+  ("Flop" .
+   [4 0 0 1])
+  ("ShowFlop" .
+   [1 0 0 0 0 0 0 0])
+  ("Deal" .
+   [2 0 0 0])
+  ("DeckViewer" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("Take" .
+   [1 0 0 0])
+  ("_communityCards" .
+   [1 0 0 0 0 0 3 0 1 0 0 0 0 0 0])
+  ("OnClickButton" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("CommunityCards" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Playingcards" .
+   [0 0 0 0 0 0 2 0 0 0 0 0])
+  ("bankroll" .
+   [1 0 0 0 0 0 1 1])
+  ("_prevValue" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("_result" .
+   [1 0 0 0 0 0 0])
+  ("Tie" .
+   [1 0 0])
+  ("BankerWin" .
+   [3 0 0 0 0 0 0 0 0])
+  ("PlayerWin" .
+   [2 0 0 0 0 0 0 0 0])
+  ("_bankerRank" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("_playerRank" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("_playersRank" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("_banker" .
+   [6 0 0 0 0 0 0])
+  ("Hide" .
+   [2 0 0 0])
+  ("_player" .
+   [1 0 0 0 0 1 0])
+  ("enabled" .
+   [3 0 0 1 0 0 0])
+  ("playerCards" .
+   [1 0 0 0 0 0 0 0 1 0 0])
+  ("newCards" .
+   [1 0 0 0 0 0 0 0])
+  ("Reflection" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("Baccarat" .
+   [1 0 3 1 0 7 0 0])
+  ("SubCard" .
+   [0 0 0 0 0 1 1])
+  ("Show" .
+   [7 0 0 0])
+  ("Spade" .
+   [14 0 0 18 0])
+  ("Heart" .
+   [10 0 0 22 1])
+  ("Diamond" .
+   [6 0 1 14 1 1 1])
+  ("Club" .
+   [15 0 2 11])
+  ("suitString" .
+   [1 0 0 0 0 0 1 0 0 1])
+  ("12" .
+   [6 0])
+  ("11" .
+   [5 0])
+  ("rankString" .
+   [2 0 0 0 0 0 0 0 0 1])
+  ("13" .
+   [5 0])
+  ("o" .
+   [1])
+  ("ContainsKey" .
+   [3 0 0 0 0 0 0 0 0 1 0])
+  ("TrueFalse" .
+   [1 0 0 0 0 1 0 0 0])
+  ("trueFalse" .
+   [2 0 0 0 0 0 0 0 0])
+  ("_genericMethod" .
+   [0 0 0 0 0 1 0 2 0 0 0 0 0 0])
+  ("MethodInfo" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("MiniMessagePacker" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("mi" .
+   [1 0])
+  ("className" .
+   [2 0 0 0 0 0 0 0 0])
+  ("gm" .
+   [2 0])
+  ("ObjectPacker" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Call" .
+   [2 0 0 0])
+  ("secondsToBeFull" .
+   [3 0 0 0 0 0 0 1 0 1 1 2 0 0 0])
+  ("SecondsToRecover1" .
+   [1 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 0])
+  ("_timeToBeFull" .
+   [0 0 0 0 0 0 2 2 1 2 0 0 0])
+  ("_secondsToRecover1" .
+   [0 0 0 0 0 0 1 0 3 0 4 0 1 0 0 0 0 0])
+  ("secondsToRecover1" .
+   [2 0 0 0 0 1 0 0 0 2 0 1 0 0 0 0 2])
+  ("parameters" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("Immutable" .
+   [0 0 0 0 1 0 0 0 0])
+  ("LimitedValue::IncreasingWithTime" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("seconds" .
+   [1 0 0 0 0 0 0])
+  ("now" .
+   [2 0 0])
+  ("time_to_be_full" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0])
+  ("seconds_to_increment" .
+   [0 0 0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 1])
+  ("_badge" .
+   [1 0 0 1 0 0])
+  ("OnDisplay" .
+   [0 0 1 0 1 0 0 0 0])
+  ("UI" .
+   [4 0])
+  ("IncreasingWithTime" .
+   [1 0 0 0 0 1 8 0 0 1 0 0 0 0 0 0 0 0])
+  ("RecoveryTime" .
+   [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("RecoverySpeed" .
+   [0 0 0 0 0 0 0 1 0 0 1 0 0])
+  ("Model" .
+   [1 0 0 0 0])
+  ("Master" .
+   [3 0 0 0 0 0])
+  ("_isMasterData" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Create" .
+   [6 0 0 0 0 0])
+  ("Clear" .
+   [1 0 0 0 0])
+  ("OnMove" .
+   [0 0 0 0 1 0])
+  ("OnRelease" .
+   [0 0 0 0 1 0 0 0 0])
+  ("Began" .
+   [2 0 0 0 0])
+  ("OnClick" .
+   [3 0 0 0 0 0 0])
+  ("_prevPosition" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("TouchPosition" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("TouchPhase" .
+   [2 0 0 0 0 1 1 0 0 0])
+  ("Touch" .
+   [1 0 0 0 0])
+  ("MsgPacker" .
+   [2 0 0 0 0 0 0 0 0])
+  ("MsgPack" .
+   [3 0 0 0 0 0 0])
+  ("sampleData" .
+   [3 0 0 0 0 0 0 0 0 0])
+  ("Unpacker" .
+   [0 0 0 0 0 0 0 1])
+  ("OnMessage" .
+   [0 0 0 0 1 1 0 0 0])
+  ("MessageEventArgs" .
+   [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("by" .
+   [1 0])
+  ("threads" .
+   [3 0 0 0 0 0 1])
+  ("thread" .
+   [3 0 0 0 0 1])
+  ("31" .
+   [3 0])
+  ("Kokushimuso" .
+   [3 0 1 0 1 0 0 1 0 0 0])
+  ("36" .
+   [1 0])
+  ("35" .
+   [1 0])
+  ("38" .
+   [9 0])
+  ("_histogram" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("37" .
+   [2 0])
+  ("histogram" .
+   [2 0 0 1 1 7 1 0 1])
+  ("100000" .
+   [4 0 0 0 0 0])
+  ("ScoreCalculator" .
+   [0 0 0 1 0 2 0 0 0 0 0 0 0 0 0])
+  ("agariCandidates" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("_yakuList" .
+   [0 0 0 0 0 2 0 0 0])
+  ("is_yaochuhai" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("hai_list" .
+   [0 0 0 0 0 0 2 0])
+  ("janto" .
+   [1 0 0 0 0])
+  ("python" .
+   [4 0 0 0 0 0])
+  ("MonoBehaviour" .
+   [2 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Close" .
+   [1 0 0 0 0])
+  ("Send" .
+   [3 0 0 1])
+  ("Connect" .
+   [2 0 0 0 1 2 0])
+  ("Disconnect" .
+   [3 0 0 0 0 0 1 1 0 0])
+  ("WebSocketClient" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 15 0 2])
+  ("GetRandomElement" .
+   [0 0 0 0 0 0 1 0 0 0 1 0 0 0 0 0])
+  ("out" .
+   [1 0 0])
+  ("Write" .
+   [1 0 0 0 0])
+  ("ref" .
+   [2 0 0])
+  ("writer" .
+   [4 0 0 0 0 0])
+  ("StringWriter" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Console" .
+   [2 0 0 0 0 1 0])
+  ("standard" .
+   [0 0 0 0 0 1 0 0])
+  ("TextWriter" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("ExportPrivateKey" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("privateKey" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("publicKey" .
+   [0 0 0 0 0 0 0 0 1])
+  ("IsConsonant" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("ToColoredForUIText" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Substring" .
+   [1 0 0 0 0 0 0 0 0])
+  ("format" .
+   [2 0 0 0 1 1])
+  ("Config" .
+   [1 0 0 0 0 0])
+  ("ServerConfig" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("0x10" .
+   [1 0 0 0])
+  ("LogWarning" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("ToHexString" .
+   [0 0 0 0 0 0 1 2 0 0 1])
+  ("Server" .
+   [1 0 0 0 0 0])
+  ("_production" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("Production" .
+   [0 0 1 0 0 0 0 0 0 0])
+  ("_staging" .
+   [0 0 0 1 0 0 0 0])
+  ("Staging" .
+   [0 0 1 0 0 0 0])
+  ("_develop" .
+   [0 0 0 0 0 0 1 0])
+  ("Develop" .
+   [0 0 0 0 0 0 1])
+  ("EntityGenerator" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("resultWindow" .
+   [0 0 0 0 0 0 0 0 0 1 1 1])
+  ("ResultWindow" .
+   [1 0 0 0 0 0 1 0 0 0 0 0])
+  ("OnGUI" .
+   [1 0 0 0 0])
+  ("EditorWindow" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Type" .
+   [3 0 0 0])
+  ("TypeName" .
+   [0 0 0 0 1 0 0 0])
+  ("_entityFields" .
+   [0 0 0 0 0 0 0 1 0 0 1 1 0])
+  ("SetHeader" .
+   [0 0 0 0 1 0 0 0 0])
+  ("EntityTemplate" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("EntityName" .
+   [5 0 0 0 0 0 0 0 0 0])
+  ("ReadAll" .
+   [1 0 0 0 0 0 0])
+  ("setTable" .
+   [2 0 0 0 1 0 0 0])
+  ("pair" .
+   [4 0 0 0])
+  ("_className" .
+   [0 0 0 0 0 0 0 1 0 1])
+  ("Concat" .
+   [1 0 0 0 0 0])
+  ("UpperCamelToSnake" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ToLowerInvariant" .
+   [0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0])
+  ("Select" .
+   [3 0 0 0 0 0])
+  ("createData" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("HTTPClient" .
+   [0 0 0 0 1 0 0 1 0 0])
+  ("ICRUDDataController" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("HTTPController" .
+   [0 0 0 1 0 0 0 8 0 0 0 0 0 0])
+  ("ICRUDDataHandler" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("_dataSource" .
+   [0 0 0 1 0 2 0 0 3 0 0])
+  ("dataSource" .
+   [0 0 0 0 0 0 0 2 0 0])
+  ("Description" .
+   [1 0 0 0 1 0 0 0 0 0 0])
+  ("item" .
+   [3 0 0 0])
+  ("SampleData" .
+   [2 0 0 0 0 1 0 0 2 0])
+  ("GetMultipleResources" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GetSingleResource" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("GetList" .
+   [1 0 0 0 0 0 0])
+  ("fieldName" .
+   [3 0 0 0 0 0 0 0 0])
+  ("WhoseIdIs" .
+   [0 0 1 0 0 0 0 0 0])
+  ("onFailure" .
+   [1 0 0 0 0 6 0 0 0])
+  ("readonly" .
+   [42 0 0 0 0 0 2 0])
+  ("To" .
+   [10 0])
+  ("IList" .
+   [5 0 0 0 0])
+  ("1000" .
+   [1 0 0 0])
+  ("deltaTime" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Time" .
+   [3 0 0 0])
+  ("_numNum" .
+   [0 0 0 0 0 0 1])
+  ("_updateTime" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("diff" .
+   [23 0 0 0])
+  ("_diff" .
+   [3 0 0 0 0])
+  ("_tmpNum" .
+   [1 0 0 0 0 0 1])
+  ("tmpNum" .
+   [3 0 0 0 0 0])
+  ("nextNum" .
+   [3 0 0 0 0 0 2])
+  ("_updateVelocity" .
+   [0 0 0 0 0 0 0 0 0 3 0 1 0 0 0])
+  ("_nextNum" .
+   [1 0 0 4 1 2 0 0])
+  ("newNum" .
+   [2 0 0 0 0 1])
+  ("20" .
+   [3 0])
+  ("UpdateTo" .
+   [3 0 0 0 0 0 0 0])
+  ("_num" .
+   [10 0 0 0])
+  ("num" .
+   [11 0 0])
+  ("NumberText" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("AddNotClosedTags" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("Last" .
+   [5 0 0 0])
+  ("Remove" .
+   [1 0 0 0 0 0])
+  ("tags" .
+   [1 0 0 0])
+  ("_tags" .
+   [5 0 0 0 7])
+  ("SkipTag" .
+   [0 0 0 0 1 0 0])
+  ("tagCount" .
+   [1 0 0 0 0 0 1 0])
+  ("CountString" .
+   [1 0 0 0 0 0 1 0 0 0 0])
+  ("passedText" .
+   [3 0 0 0 1 0 2 0 0 0])
+  ("isInTag" .
+   [0 0 0 0 3 0 0])
+  ("IsPlaying" .
+   [0 0 0 0 1 0 0 0 0])
+  ("FinishPlaying" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("_index" .
+   [2 0 0 0 1 1])
+  ("futureText" .
+   [0 0 0 0 0 0 4 0 0 0])
+  ("Length" .
+   [9 0 0 0 1 0])
+  ("_contents" .
+   [1 0 0 0 0 0 3 0 0])
+  ("Update" .
+   [7 0 0 0 0 0])
+  ("SaveUserId" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("GetUserId" .
+   [0 0 0 0 0 0 0 0 1])
+  ("MiniJSON" .
+   [0 0 0 0 0 2 0 1])
+  ("userInfoJson" .
+   [1 0 0 0 0 0 0 0 0 2 0 0])
+  ("userInfo" .
+   [2 0 0 0 0 0 0 1])
+  ("IO" .
+   [2 0])
+  ("userInfoPath" .
+   [0 0 0 0 0 0 0 0 0 0 1 0])
+  ("userInfoFile" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Combine" .
+   [1 0 0 0 0 0 0])
+  ("GetBytes" .
+   [0 0 0 0 0 0 0 1])
+  ("UTF8" .
+   [1 0 0 0])
+  ("Encoding" .
+   [0 0 0 0 0 0 0 1])
+  ("Content" .
+   [5 0 0 0 0 1 1])
+  ("byte" .
+   [6 0 1 0])
+  ("ToLower" .
+   [3 0 0 0 0 0 0])
+  ("headers" .
+   [3 0 0 0 0 0 0])
+  ("AddField" .
+   [2 0 0 0 0 0 0 0])
+  ("Text" .
+   [14 0 0 0])
+  ("instance" .
+   [10 0 0 0 0 0 0 0])
+  ("OnLogin" .
+   [1 0 0 0 1 0 0])
+  ("OnCreateUser" .
+   [0 0 0 0 0 0 0 0 1 1 0 0])
+  ("newUser" .
+   [1 0 0 0 0 0 0])
+  ("userData" .
+   [3 0 0 0 0 0 3 0])
+  ("Post" .
+   [6 0 0 0])
+  ("dbFilePath" .
+   [0 0 0 0 0 1 0 1 0 0])
+  ("Delete" .
+   [1 0 0 0 0 0])
+  ("pathDB" .
+   [1 0 0 0 0 0])
+  ("sourcePath" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("Login" .
+   [4 0 0 0 1])
+  ("catch" .
+   [1 0 0 4 1])
+  ("IsNullOrEmpty" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("table" .
+   [15 0 0 0 0])
+  ("columns" .
+   [2 0 0 1 0 1 0])
+  ("column" .
+   [1 0 0 0 0 1])
+  ("dictionary" .
+   [5 0 0 0 0 0 0 0 0 1])
+  ("_text" .
+   [7 0 0 0 1])
+  ("Save" .
+   [7 0 0 0])
+  ("Value" .
+   [4 0 0 0 0])
+  ("Key" .
+   [5 0 1])
+  ("keyValuePair" .
+   [0 0 0 0 1 0 0 3 1 0 0 0])
+  ("Id" .
+   [14 0])
+  ("willSet" .
+   [1 0 0 0 0 0 0])
+  ("attr" .
+   [2 0 0 0])
+  ("Void" .
+   [4 0 0 0])
+  ("let" .
+   [4 0 0])
+  ("Double" .
+   [5 0 0 0 0 0])
+  ("func" .
+   [5 0 0 0])
+  ("postfix" .
+   [2 0 0 0 0 0 0])
+  ("_random" .
+   [1 0 0 0 0 0 0])
+  ("Func" .
+   [1 0 0 0])
+  ("factoryMethod" .
+   [1 0 0 0 1 0 0 1 1 0 0 0 0])
+  ("_factoryMethods" .
+   [1 0 0 0 1 0 0 0 0 1 0 0 0 1 0])
+  ("Percent" .
+   [2 0 0 0 0 0 2])
+  ("Lambda" .
+   [0 0 0 0 0 2])
+  ("LambdaWithPercent" .
+   [0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0])
+  ("decimal" .
+   [16 0 0 0 0 0 0])
+  ("_draggingColor" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("isEnabled" .
+   [0 0 0 0 0 0 0 5 1])
+  ("_disabledColor" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("_originalColor" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0 1])
+  ("color" .
+   [4 0 0 0 0])
+  ("_isEnabled" .
+   [0 0 0 0 1 0 0 0 1 0])
+  ("Color" .
+   [8 0 0 0 1])
+  ("pointerEventData" .
+   [0 0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("pointerDrag" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("_pointerEventData" .
+   [0 0 0 0 0 1 0 0 1 0 0 0 0 0 0 0 0])
+  ("_draggingObject" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 2])
+  ("sourceImage" .
+   [1 0 0 0 0 0 0 1 0 1 0])
+  ("Generic" .
+   [5 0 0 0 3 0 1])
+  ("SetCards" .
+   [1 0 0 0 0 0 0 0])
+  ("draggedCard" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("CardImageSetter" .
+   [0 0 0 0 0 0 0 1 0 0 1 0 0 0 0])
+  ("First" .
+   [1 0 0 0 0])
+  ("_card" .
+   [1 0 0 0 0])
+  ("GetCard" .
+   [3 0 0 0 0 0 0])
+  ("GameSceneController" .
+   [0 0 0 0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0])
+  ("Start" .
+   [6 0 0 0 0])
+  ("Count" .
+   [13 0 0 0 0])
+  ("Refresh" .
+   [0 0 0 0 0 1 0])
+  ("CardParent" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("Linq" .
+   [2 0 0 0])
+  ("Any" .
+   [1 0 0])
+  ("_cards" .
+   [20 0 0 0 0 0])
+  ("OnPointerDown" .
+   [0 0 0 0 0 0 1 0 0 1 0 0 0])
+  ("swift" .
+   [1 0 0 0 0])
+  ("GetComponentInParent" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0])
+  ("Parent" .
+   [1 0 0 0 0 1])
+  ("Initialize" .
+   [3 0 0 0 1 1 1 0 0 1])
+  ("_publicKey" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("Purchasing" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("ChangeParent" .
+   [0 0 0 0 0 0 0 0 1 0 0 0])
+  ("Reset" .
+   [4 0 0 0 0])
+  ("_parent" .
+   [5 0 0 0 0 0 0])
+  ("Socket" .
+   [3 0 0 0 0 0])
+  ("User" .
+   [40 0 0 0])
+  ("objectFromJson" .
+   [0 0 0 0 0 1 0 2 0 0 1 0 0 0])
+  ("ToJson" .
+   [8 0 0 4 0 0])
+  ("DontDestroyOnLoad" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Awake" .
+   [7 0 0 0 0])
+  ("DatabaseManager" .
+   [0 0 0 0 0 1 2 0 0 0 2 1 0 0 0])
+  ("Destination" .
+   [2 0 0 0 0 1 1 0 0 0 0])
+  ("Remote" .
+   [0 0 0 0 1 0])
+  ("_remoteUrl" .
+   [0 0 0 0 0 1 0 1 0 0])
+  ("DestinationType" .
+   [2 0 0 0 0 2 1 0 0 0 0 0 0 0 1])
+  ("_destination" .
+   [0 0 0 1 1 0 0 1 0 0 0 0])
+  ("health" .
+   [2 0 0 0 1 0])
+  ("lives" .
+   [0 0 0 1 0])
+  ("CreateFromJSON" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("info" .
+   [5 0 0 0])
+  ("PlayerInfo" .
+   [0 0 0 0 0 0 0 0 2 0])
+  ("while" .
+   [9 0 0 0 0])
+  ("D" .
+   [1])
+  ("Conditional" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("A" .
+   [1])
+  ("ConditionField" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ARM" .
+   [1 0 0])
+  ("C" .
+   [1])
+  ("Factory" .
+   [1 0 0 0 0 0 0])
+  ("trait" .
+   [8 0 0 0 3])
+  ("with" .
+   [2 0 0 0])
+  ("MetaSystem" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("betaReduction" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0])
+  ("isBetaNormalForm" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0])
+  ("i" .
+   [12])
+  ("S" .
+   [1])
+  ("Add" .
+   [30 0 0])
+  ("t2" .
+   [1 0])
+  ("except" .
+   [1 0 0 0 0 0])
+  ("subst" .
+   [0 0 0 1 0])
+  ("converted" .
+   [0 0 0 0 0 0 0 0 1])
+  ("toSet" .
+   [2 0 0 0 0])
+  ("alphaConvertion" .
+   [0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("vars" .
+   [3 0 0 0])
+  ("t1" .
+   [4 0])
+  ("Or" .
+   [1 0])
+  ("t0" .
+   [5 0])
+  ("fun" .
+   [1 0 0])
+  ("pi" .
+   [1 0])
+  ("eqnarray*" .
+   [1 0 0 0 0 0 0 0 0])
+  ("eqnarray" .
+   [0 0 0 0 2 0 0 0])
+  ("True" .
+   [4 0 0 0])
+  ("object" .
+   [59 0 0 1 1 1])
+  ("AnyVal" .
+   [1 0 0 0 0 0])
+  ("Var" .
+   [6 0 1])
+  ("implicit" .
+   [1 0 0 0 0 1 0 1])
+  ("App" .
+   [5 0 0])
+  ("app" .
+   [7 0 0])
+  ("right" .
+   [1 0 0 0 1])
+  ("left" .
+   [2 0 0 0])
+  ("Term" .
+   [4 0 0 0])
+  ("equals" .
+   [1 0 0 0 0 0])
+  ("filter" .
+   [1 0 0 0 0 0])
+  ("isEmpty" .
+   [0 0 0 0 1 0 0])
+  ("head" .
+   [6 0 0 0])
+  ("termX" .
+   [7 0 0 0 0])
+  ("termY" .
+   [6 0 0 0 0])
+  ("freeVariables" .
+   [0 0 0 0 0 0 4 0 0 0 0 0 2])
+  ("boundVariable" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0])
+  ("arg" .
+   [13 0 0])
+  ("String" .
+   [27 0 1 0 0 0])
+  ("term" .
+   [7 0 0 0])
+  ("Abst" .
+   [8 0 0 0])
+  ("documentstyle" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("div" .
+   [1 0 0])
+  ("isShuhai" .
+   [0 0 0 0 0 3 0 0])
+  ("isZupai" .
+   [0 0 0 0 3 0 0])
+  ("All" .
+   [1 0 0])
+  ("isYaochuhai" .
+   [0 0 0 0 0 3 0 0 0 0 0])
+  ("isChunchanpai" .
+   [1 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("isSangenpai" .
+   [0 0 0 0 0 2 0 0 1 0 0])
+  ("isFonpai" .
+   [2 0 0 0 0 2 0 0])
+  ("Green" .
+   [2 0 0 0 0])
+  ("contains" .
+   [4 0 0 0 0 0 0 0])
+  ("Sangenpai" .
+   [3 0 0 0 0 0 0 0 0])
+  ("North" .
+   [0 0 1 1 0])
+  ("South" .
+   [1 0 0 0 1])
+  ("Invalid" .
+   [4 0 0 0 0 0 0])
+  ("West" .
+   [1 0 0 2])
+  ("isRotohai" .
+   [2 0 0 0 0 0 3 0 0])
+  ("Shuhai" .
+   [6 0 0 0 0 0])
+  ("Fonpai" .
+   [5 0 0 0 0 0])
+  ("Sozu" .
+   [2 0 1 0])
+  ("Pinzu" .
+   [2 0 0 1 0])
+  ("Manzu" .
+   [1 0 0 2 0])
+  ("East" .
+   [3 0 0 2])
+  ("Set" .
+   [13 0 0])
+  ("Zupai" .
+   [3 0 0 0 0])
+  ("lazy" .
+   [9 0 0 0])
+  ("White" .
+   [2 0 0 1 0])
+  ("Red" .
+   [3 0 0])
+  ("this" .
+   [36 0 0 0])
+  ("prevHai" .
+   [0 0 0 0 1 0 0])
+  ("base" .
+   [17 0 0 0])
+  ("Int" .
+   [31 0 0])
+  ("answer" .
+   [1 0 0 0 0 0])
+  ("operands" .
+   [2 0 0 0 0 0 0 0])
+  ("port" .
+   [2 0 0 0])
+  ("const" .
+   [17 0 0 0 0])
+  ("serverIp" .
+   [1 0 0 0 0 0 1 0])
+  ("connectionTesterPort" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Network" .
+   [0 0 0 0 0 0 5])
+  ("connectionTesterIP" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("void" .
+   [82 0 0 0])
+  ("Alias" .
+   [0 0 0 0 1])
+  ("cursor" .
+   [0 0 1 2 0 0])
+  ("SimpleHTTPServer" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Person" .
+   [1 0 0 1 0 0])
+  ("yield" .
+   [6 0 1 1 2])
+  ("range" .
+   [4 0 0 0 0])
+  ("10" .
+   [25 0])
+  ("type" .
+   [1 0 0 0])
+  ("counters" .
+   [13 0 0 0 0 0 0 0])
+  ("hand" .
+   [40 0 0 0])
+  ("major_suit" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("maijor_suit" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("ThreeOfAKind" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("selected_cards" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("rank_of_three_cards" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("count_of" .
+   [0 0 0 0 0 0 0 1])
+  ("HandDecider" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("NoPair" .
+   [0 0 0 0 0 1])
+  ("has_responsibility_for" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("deals_with" .
+   [0 0 0 0 1 0 0 0 0 1])
+  ("Poker" .
+   [9 0 0 0 0])
+  ("rank_value" .
+   [1 0 0 0 2 2 0 0 0 4])
+  ("Deck" .
+   [18 0 0 0])
+  ("deck" .
+   [46 0 0 0])
+  ("card" .
+   [81 0 0 1])
+  ("cards" .
+   [55 0 0 0 0])
+  ("Suit::CLUB" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("suits" .
+   [1 0 0 0 0])
+  (":club" .
+   [1 0 0 0 0])
+  ("PlayingCards" .
+   [15 0 0 0 2 1 8 0 1 0 0 17])
+  ("get_record_of" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 1])
+  ("DBTable" .
+   [0 0 0 0 0 1 0])
+  ("tb_name" .
+   [1 0 2 0 1 0 0])
+  ("isMultiply" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("BIC" .
+   [1 0 0])
+  ("Instruction" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("shamt" .
+   [0 0 0 0 1])
+  ("rotateRight" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("value_" .
+   [0 0 0 0 0 1])
+  ("resultValue" .
+   [0 0 0 0 0 0 0 0 0 0 3])
+  ("cpsr" .
+   [0 0 0 1])
+  ("cpsr_" .
+   [1 0 0 0 2])
+  ("immed_8" .
+   [0 0 0 0 0 1 1])
+  ("immed" .
+   [0 0 0 0 1])
+  ("rotate_imm" .
+   [1 0 0 0 0 0 0 0 0 1])
+  ("Immediate" .
+   [0 0 0 0 0 0 0 0 3])
+  ("ShifterOperand" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 6])
+  ("ISACode" .
+   [0 0 0 0 0 0 1])
+  ("ONE_PACK_PRODUCT_ID" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ProductAssets" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ONE_PACK" .
+   [0 0 0 0 0 0 0 1])
+  ("Example" .
+   [2 0 0 0 0 0 1])
+  ("Soomla" .
+   [1 0 0 0 0 0])
+  ("toStringInHexadecimal" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 13])
+  ("Babel" .
+   [0 0 0 0 4])
+  ("set" .
+   [13 0 1])
+  ("getValueAs" .
+   [0 0 0 0 0 0 0 0 0 4])
+  ("InstId" .
+   [0 0 0 0 0 1])
+  ("InstIdntifier" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("makehash" .
+   [0 0 0 0 1 0 0 0])
+  ("update" .
+   [2 0 0 0 0 0])
+  ("submodule" .
+   [0 0 0 0 0 1 0 0 0])
+  ("init" .
+   [10 0 0 0])
+  ("git" .
+   [1 0 0])
+  ("InstIdentifier" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("map" .
+   [14 0 0])
+  ("transpose" .
+   [0 0 0 0 0 0 0 1 0])
+  ("each_with_index" .
+   [0 0 0 0 1 0 0 0 0 2 0 0 0 0 0])
+  ("to_i" .
+   [3 0 0 0])
+  ("delete_at" .
+   [1 0 0 0 1 0 1 0 0])
+  ("elsif" .
+   [0 0 0 0 1])
+  ("lambda" .
+   [3 0 0 0 0 2])
+  ("fork" .
+   [0 0 0 1])
+  ("factory" .
+   [6 0 0 0 0 0 2])
+  ("ballConstructor" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("pokemonConstructor" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 2])
+  ("PikachuFactory" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 5])
+  ("IntFunc" .
+   [0 0 0 0 0 0 1])
+  ("parameters_" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("Product" .
+   [0 0 0 0 0 0 9])
+  ("a_" .
+   [0 2])
+  ("Builder" .
+   [0 0 0 0 0 0 7])
+  ("b_" .
+   [0 1])
+  ("toStringInDescendingOrder" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getRateOf" .
+   [0 0 0 0 0 0 0 0 1])
+  ("Int2Type" .
+   [0 0 0 0 0 0 0 1])
+  ("Type2Type" .
+   [0 0 0 0 0 0 0 0 2])
+  ("decisionMaker_" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 4])
+  ("DecisionPolicy" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("WithPossibleReturningNull" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("probabilities_" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0 4])
+  ("getThreashold" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("prototypeCounter_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("Args" .
+   [0 0 0 1])
+  ("creator" .
+   [1 0 0 0 0 0 3])
+  ("CreateWithPossibleReturningNull" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("cumulativeProbability" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6])
+  ("CreationPolicy" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("probabilityVariables_" .
+   [1 0 0 0 0 0 0 0 0 0 0 3 0 0 0 0 0 0 0 0 2])
+  ("sumOfProbabilities_" .
+   [0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 9])
+  ("probability_" .
+   [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("CreateByNormalizingProbability" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5])
+  ("percent" .
+   [4 0 0 0 0 0 4])
+  ("threashold" .
+   [0 0 0 0 0 0 0 0 0 13])
+  ("registerPrototype" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("prototypes_" .
+   [5 0 0 1 0 0 0 0 0 1 7])
+  ("CreateByEqualProbability" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5])
+  ("Sample" .
+   [4 0 0 0 0 0])
+  ("Samlp" .
+   [0 0 0 1 0])
+  ("M2" .
+   [2 0])
+  ("M1" .
+   [3 0])
+  ("Temp" .
+   [4 0 0 0])
+  ("modules" .
+   [4 0 0 0 0 0 0])
+  ("ancestors" .
+   [1 0 0 0 0 0 0 1 0])
+  ("ancestor" .
+   [0 0 0 0 0 1 0 0])
+  ("Test" .
+   [2 0 0 0])
+  ("Class" .
+   [28 0 0 0 0])
+  ("Hierarchy_Generator" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("include" .
+   [9 0 0 0 0 1 0])
+  ("rhsNum" .
+   [0 0 0 0 0 1])
+  ("denominator" .
+   [0 0 0 0 0 0 0 0 0 0 5])
+  ("numerator" .
+   [0 0 0 0 0 0 0 0 6])
+  ("Rational" .
+   [0 0 0 0 0 1 0 11])
+  ("denominator_" .
+   [0 0 0 0 0 0 0 0 0 0 0 6])
+  ("numerator_" .
+   [0 0 0 0 0 0 0 0 0 8])
+  ("program" .
+   [0 0 0 0 0 1 0])
+  ("static_cast" .
+   [6 0 0 0 0 0 0 0 0 0 5])
+  ("sumOfPercent" .
+   [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("containsError" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("deletePrototype" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("protorype_" .
+   [0 0 0 0 0 0 0 0 0 3])
+  ("AbstractProduct" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 18])
+  ("initialize" .
+   [1 0 0 0 1 0 0 0 1 1])
+  ("prototype" .
+   [0 0 0 0 1 0 0 0 5])
+  ("rand" .
+   [1 0 0 0])
+  ("100" .
+   [19 0 0])
+  ("prototypes" .
+   [2 0 0 0 0 0 0 0 0 1])
+  ("probability_variables" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("probability_variable" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("generate" .
+   [3 0 0 0 0 0 0 0])
+  ("register" .
+   [3 0 0 0 1 0 0 1])
+  ("RandomFactory" .
+   [0 0 0 0 0 0 1 0 2 0 0 1 3])
+  ("classes" .
+   [3 0 0 0 0 0 0])
+  ("ProbabilityVariable" .
+   [0 0 0 3 2 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("raise" .
+   [4 0 0 2 0])
+  ("probability" .
+   [2 0 0 1 3 2 0 2 0 1 10])
+  ("value" .
+   [60 0 0 0 1])
+  (":HEART" .
+   [1 0 0 0 0 0])
+  (":" .
+   [1])
+  ("super" .
+   [11 0 0 0 0])
+  (":A" .
+   [2 0])
+  ("c" .
+   [9])
+  ("instance_" .
+   [0 0 0 0 0 0 0 0 1])
+  ("Integer" .
+   [3 0 0 0 0 1 0])
+  ("factor_found" .
+   [0 0 0 1 0 1 0 0 0 0 0 0])
+  ("number" .
+   [8 0 0 0 0 0])
+  ("sqrt" .
+   [4 0 0 0])
+  ("self" .
+   [67 0 0 0])
+  ("prime" .
+   [3 0 0 0 0])
+  ("not" .
+   [5 0 0])
+  ("is_prime?" .
+   [0 0 3 0 0 0 0 0 0])
+  ("true" .
+   [24 0 0 0])
+  ("baseFilePath" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("LoadFile" .
+   [0 0 0 0 0 0 0 1])
+  ("persistentDataPath" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("filePath" .
+   [0 0 0 0 0 0 0 2])
+  ("fileName" .
+   [2 0 0 0 0 0 0 5])
+  ("CreateTable" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("p" .
+   [2])
+  ("typeof" .
+   [27 0 0 0 1 11])
+  ("familyList" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("debuglog" .
+   [0 0 0 0 0 0 0 7])
+  ("10080" .
+   [2 0 0 0 0])
+  ("uri" .
+   [5 0 0])
+  ("Net::HTTP" .
+   [2 0 0 0 0 0 0 0 0])
+  ("start" .
+   [1 0 0 0 0])
+  ("server" .
+   [2 0 0 0 0 0])
+  ("trap" .
+   [1 0 0 0])
+  ("load" .
+   [1 0 0 0])
+  ("json" .
+   [34 0 0 0])
+  ("open" .
+   [1 0 0 0])
+  ("haskell-cabal" .
+   [2 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("haskell-mode" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("load-path" .
+   [1 0 0 0 0 0 0 0 0])
+  ("Xor" .
+   [1 0 0])
+  ("And" .
+   [2 0 0])
+  ("sum" .
+   [27 0 0])
+  ("else" .
+   [48 0 0 0])
+  ("output_terminals" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1 1 2])
+  ("input_terminals" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 2 0 0])
+  ("check_index" .
+   [1 0 0 0 0 1 0 0 0 0 0])
+  ("idx" .
+   [6 0 0])
+  ("in" .
+   [30 0])
+  ("output_count" .
+   [0 0 0 1 0 0 1 0 0 0 0 1])
+  ("compute_output" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("input" .
+   [4 0 0 0 0])
+  ("input_count" .
+   [1 0 0 0 0 0 0 0 0 0 1])
+  ("Array" .
+   [9 0 0 0 0])
+  ("state" .
+   [9 0 0 0 0])
+  ("connect_input_terminal" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("connect" .
+   [0 0 0 0 0 0 2])
+  ("new" .
+   [158 0 0])
+  ("Terminal" .
+   [3 0 0 0 0 0 0 0])
+  ("composingCards" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("initialRankOfStraight" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("nextRank" .
+   [0 0 0 0 0 0 0 4])
+  ("initialRank" .
+   [0 0 0 0 0 0 0 0 0 0 5])
+  ("is5HighStraight" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("sameSuitCardsInfo" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("sameSuitCards" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("straight" .
+   [0 0 0 0 0 0 0 1])
+  ("Straight" .
+   [0 0 0 0 0 0 0 2])
+  ("createsHandFrom" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("beats" .
+   [0 0 0 0 3])
+  ("bestHand" .
+   [0 0 0 0 0 0 0 3])
+  ("trashedCards" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("transient" .
+   [0 0 0 0 1 0 0 0 0])
+  ("communityCard" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("pocketCards" .
+   [3 0 0 0 0 0 0 0 0 0 3])
+  ("getNotUsedCard" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getHandFactory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("@Override" .
+   [0 0 0 0 0 0 0 0 1])
+  ("HandFactory" .
+   [0 0 0 0 0 0 0 0 0 0 9])
+  ("OutsCalculator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 9])
+  ("abstract" .
+   [3 0 0 3 3 1 8 7])
+  ("ordinal" .
+   [0 0 0 0 0 0 1])
+  ("getSuit" .
+   [0 0 0 0 0 0 1])
+  ("outs" .
+   [7 0 0 0])
+  ("PercentCalculator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("meetsCondition" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("publi" .
+   [0 0 0 0 1])
+  ("implements" .
+   [0 0 0 1 0 0 0 0 0 0])
+  ("receives" .
+   [0 0 0 0 0 0 0 1])
+  ("Even" .
+   [0 0 0 1])
+  ("Decider" .
+   [0 0 0 0 0 0 3])
+  ("hasResponsibilityFor" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("boolean" .
+   [0 0 0 0 0 0 1])
+  ("dealsWith" .
+   [0 0 0 0 0 0 0 0 1])
+  ("Low" .
+   [0 0 2])
+  ("NodeOfChain" .
+   [0 0 0 0 0 1 0 0 0 0 1])
+  ("extends" .
+   [7 0 0 0 2 4 3])
+  ("package" .
+   [1 0 0 0 1 0 3])
+  ("getTheNumberOfRestCards" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("tieWithTheDealer" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("showDownCard" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("downCard" .
+   [0 0 0 0 0 0 0 1])
+  ("player" .
+   [49 0 0 0 0 0])
+  ("hasBlackJack" .
+   [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("shouldTakeOutInsurance" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("upCardsRankIs" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getUpCard" .
+   [0 0 0 0 0 0 0 0 3])
+  ("IndexTyp" .
+   [0 0 0 0 0 0 0 1])
+  ("DIAMOND" .
+   [1 0 0 0 0 0 2])
+  ("ofstream" .
+   [0 0 0 0 0 0 0 1])
+  ("saveDataTo" .
+   [0 0 0 0 0 0 0 0 0 3])
+  ("blackjack" .
+   [0 0 0 0 0 0 0 0 1])
+  ("black" .
+   [2 0 0 0 0])
+  ("runningCount_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getCards" .
+   [0 0 0 0 0 0 0 3])
+  ("KnockOut" .
+   [0 0 0 0 0 0 0 1])
+  ("stand" .
+   [0 0 0 0 1])
+  ("toStringResult" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("betAmount" .
+   [0 0 0 0 0 0 0 0 3])
+  ("bankRoll_" .
+   [0 0 0 0 0 0 0 0 4])
+  ("hand_" .
+   [1 0 0 0 7])
+  ("getActionFrom" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("deal" .
+   [2 0 0 0])
+  ("knockOut" .
+   [0 0 0 0 0 0 0 2])
+  ("highLow" .
+   [0 0 0 0 0 0 2])
+  ("strategy" .
+   [0 0 0 0 0 0 0 1])
+  ("strategy_" .
+   [0 0 0 0 0 0 0 0 2])
+  ("highLowCounter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getRunningCount" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Red7" .
+   [0 0 0 1])
+  ("Counter" .
+   [1 0 0 0 0 1 1])
+  ("getCount" .
+   [0 0 0 0 0 0 0 1])
+  ("updateCount" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("count_" .
+   [0 0 0 0 0 4])
+  ("cout" .
+   [24 0 0 0])
+  ("vector" .
+   [1 0 0 0 0 10])
+  ("newHands" .
+   [0 0 0 0 0 0 0 4])
+  ("Hand" .
+   [17 0 0 3])
+  ("false" .
+   [33 0 0 0 1])
+  ("isSoft" .
+   [0 0 0 0 1 2])
+  ("calcRankSum" .
+   [0 0 0 0 0 0 0 0 0 0 3])
+  ("isSoftHand" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("isBlackJack" .
+   [0 0 0 0 0 0 0 0 0 0 5])
+  ("MyLibrary" .
+   [1 0 0 0 1 0 0 0 7])
+  ("cards_" .
+   [1 0 0 0 0 7])
+  ("getBetAmount" .
+   [0 0 0 0 0 0 0 0 0 0 0 3])
+  ("containsAce" .
+   [0 0 0 0 0 0 1 0 0 0 3])
+  ("card_" .
+   [0 0 0 0 2])
+  ("bet_" .
+   [0 0 0 5])
+  ("INVALID" .
+   [0 0 0 0 0 0 3])
+  ("throw" .
+   [2 0 0 0 8])
+  ("friend" .
+   [0 0 0 0 0 4])
+  ("getRank" .
+   [9 0 0 0 0 1 25])
+  ("rank_" .
+   [0 0 0 0 3])
+  ("playingcards" .
+   [1 0 0 0 0 0 0 0 0 0 0 12])
+  ("namespace" .
+   [5 0 0 0 2 1 5 3 10])
+  ("Card" .
+   [120 0 1 5])
+  ("min_" .
+   [0 0 0 2])
+  ("getValueOf" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("long" .
+   [12 0 0 7])
+  ("unsigned" .
+   [0 0 0 0 1 0 0 5])
+  ("result" .
+   [123 0 0 0 0 8])
+  ("IsSameClass" .
+   [0 0 0 0 0 0 0 0 0 0 2])
+  ("static" .
+   [57 0 0 0 0 3])
+  ("SPADE" .
+   [0 0 0 0 4])
+  ("Suit" .
+   [46 0 0 3])
+  ("ArrayHistogram" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("Histogram" .
+   [0 0 0 0 0 0 0 0 3])
+  ("HEART" .
+   [1 0 0 0 5])
+  ("CLUB" .
+   [1 0 0 3])
+  ("delete" .
+   [3 0 1 0 1 29])
+  ("MapHistogram" .
+   [0 0 0 0 0 0 0 0 0 0 0 6])
+  ("second" .
+   [0 0 0 0 0 2])
+  ("index" .
+   [13 0 0 0 7])
+  ("histogram_" .
+   [0 0 0 0 0 0 0 0 0 6])
+  ("toString" .
+   [18 0 0 0 2 1 0 11])
+  ("HistogramMaker" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 10])
+  ("typename" .
+   [1 0 0 0 0 0 0 0])
+  ("IndexType" .
+   [1 0 0 0 0 2 0 0 10])
+  ("using" .
+   [51 0 0 0 5])
+  ("protected" .
+   [1 0 0 2 0 27 4 1 17])
+  ("HistogramPolicy" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 6])
+  ("HistogramIndexedByInt" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 2])
+  ("struct" .
+   [2 0 0 0 0 4])
+  ("once" .
+   [1 0 2 0])
+  ("for" .
+   [66 1 4])
+  ("if" .
+   [219 0])
+  ("nil" .
+   [17 0 0])
+  ("executable-find" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 1])
+  ("and" .
+   [6 0 0])
+  ("dmoccur-exclusion-mask" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("add-to-list" .
+   [0 0 0 0 0 0 0 0 0 2 1])
+  ("setq" .
+   [2 0 0 1])
+  ("occur-hook" .
+   [0 0 0 0 0 0 0 0 1 0])
+  ("kbd" .
+   [1 0 0])
+  ("global-map" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("define-key" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("color-mocucur" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("color-gray-p" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("require" .
+   [9 0 0 3 0 1 5])
+  ("when" .
+   [2 0 0 1])
+  ("values" .
+   [7 0 1 0 0 0])
+  ("class" .
+   [118 0 0 2 1])
+  ("HistogramIndexedByUserDefinedType" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("HistogramIndexedByUserDefineClass" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("deque" .
+   [0 0 0 0 1])
+  ("deck_" .
+   [3 0 0 0 13])
+  ("IDeck" .
+   [2 0 0 0 1])
+  ("override" .
+   [40 0 0 0 0 1 0 2])
+  ("getTheNumberOfRestCard" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5])
+  ("push_back" .
+   [1 0 0 0 5 1 0 0 5])
+  ("split" .
+   [14 0 0 0 1])
+  ("CARDS_NUM" .
+   [0 0 0 0 0 0 0 0 2])
+  ("deckNum_" .
+   [0 0 0 0 0 0 0 1])
+  ("DeckForBJ" .
+   [0 0 0 0 0 0 0 0 3])
+  ("trueCount_" .
+   [0 0 0 0 1 0 0 0 0 1])
+  ("deckNum" .
+   [1 0 0 0 0 0 2])
+  ("getTrueCount" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("canBeSplitted" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("nullptr" .
+   [0 0 0 0 0 0 4])
+  ("STAND" .
+   [0 0 0 0 14])
+  ("HIT" .
+   [0 0 20])
+  ("upCard" .
+   [0 0 0 0 0 11])
+  ("DOUBLE_DOWN" .
+   [0 0 0 0 0 0 0 0 0 0 9])
+  ("Action" .
+   [43 0 0 0 0 2])
+  ("getActionWhenSoftHandFrom" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("getActionWhenHandCanBeSplittedFrom" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getActionWhenHardHandFrom" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("switch" .
+   [2 0 0 1 1 6])
+  ("default" .
+   [0 0 0 0 6 0 1])
+  ("case" .
+   [20 0 0 0])
+  ("return" .
+   [172 0 0 0 2 3])
+  ("SPLIT" .
+   [0 0 0 0 8])
+  ("SURRENDER" .
+   [0 0 0 0 0 0 0 0 4])
+  ("upCardRank" .
+   [0 0 0 0 0 0 0 1 2 0])
+  ("ICounter" .
+   [0 0 0 0 0 0 0 8])
+  ("updateCountBy" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("counters_" .
+   [1 0 0 0 0 0 0 0 5])
+  ("draw" .
+   [5 0 0 1])
+  ("Dealer" .
+   [0 0 0 0 0 1])
+  ("dealer" .
+   [2 0 0 0 0 10])
+  ("getDeck" .
+   [0 0 0 0 0 0 3])
+  ("count" .
+   [23 0 0 0 1])
+  ("counter" .
+   [14 0 0 0 0 0 0])
+  ("shuffle" .
+   [1 0 0 0 0 0 2])
+  ("virtual" .
+   [8 0 0 0 0 1 6])
+  ("ICountingStrategy" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("HighLow" .
+   [0 0 1 0 0 0 2])
+  ("CountingStrategy" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("currentCount" .
+   [0 0 0 0 0 0 0 1 0 0 0 3])
+  ("ProgressIndicator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("showPercent" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("maxCount_" .
+   [0 0 0 0 0 0 0 0 1])
+  ("currentPercent" .
+   [1 0 0 0 0 0 0 1 0 0 0 0 0 10])
+  ("prevPercent_" .
+   [0 0 0 0 0 0 0 0 0 0 0 5])
+  ("current" .
+   [0 0 0 0 0 0 1])
+  ("percentHasIncreased" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("next_" .
+   [0 0 0 0 2])
+  ("makeHand" .
+   [0 0 0 0 0 0 0 2])
+  ("normal_distribution" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("double" .
+   [4 0 0 0 0 1])
+  ("getDistribution" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("updateBy" .
+   [0 0 0 0 0 0 0 1])
+  ("NormalDistribution" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("Sequent" .
+   [0 0 0 0 0 0 1])
+  ("sequent" .
+   [0 0 0 0 0 0 2])
+  ("SequentCalculator" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("LogicalFormula" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("atencedent_" .
+   [0 0 0 0 0 0 0 0 0 0 4])
+  ("formula" .
+   [0 0 0 0 0 0 4])
+  ("operator" .
+   [2 0 0 0 0 0 0 3])
+  ("text_" .
+   [0 0 0 0 1])
+  ("atencedentHasCompleted" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 1])
+  ("string" .
+   [115 0 0 0 0 1])
+  ("text" .
+   [43 0 1 2])
+  ("str" .
+   [9 0 0])
+  ("arr" .
+   [3 0 0])
+  ("puts" .
+   [152 1 0 2])
+  ("name" .
+   [34 0 0 1])
+  ("CardAhigh" .
+   [1 0 0 0 0 0 0 0 2])
+  ("CardsInfo" .
+   [0 0 0 0 0 0 0 0 1])
+  ("print" .
+   [20 0 0 0 3])
+  ("majorSuit" .
+   [0 0 0 0 0 1 0 0 2])
+  ("poker" .
+   [2 0 0 0 1])
+  ("getCardNumWhoseRankIs" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("import" .
+   [20 0 0 0 2 8])
+  ("mylibrary" .
+   [0 0 0 0 0 0 0 0 2])
+  ("percentcalculator" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("IPercentCalculable" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("Singleton" .
+   [2 0 0 0 0 2 2 0 9])
+  ("singleton" .
+   [2 0 0 0 0 0 0 0 0])
+  ("NotUsedCardsFactory" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 1])
+  ("getNorUsedCardsExcept" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("usedCards" .
+   [1 0 0 0 0 0 0 0 2])
+  ("pokerCard" .
+   [0 0 0 0 0 1 0 0 0])
+  ("holdem" .
+   [1 0 0 0 0 0])
+  ("ToolFactory" .
+   [0 0 0 0 0 0 0 0 0 0 8])
+  ("getToolFactory" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("def" .
+   [93 0 1])
+  ("do" .
+   [70 0])
+  ("END" .
+   [0 0 15])
+  ("end" .
+   [169 0 0])
+  ("sumup" .
+   [4 0 0 3 0])
+  ("each" .
+   [36 0 1 2])
+  ("result_" .
+   [1 0 0 0 0 0 1])
+  ("logicalRegisterNumber" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("hash" .
+   [16 0 0 1])
+  ("test" .
+   [4 0 0 0])
+  ("hoge" .
+   [1 0 0 0])
+  ("mysql" .
+   [2 0 0 0 1])
+  ("row" .
+   [14 0 0])
+  ("begin" .
+   [52 0 0 0 0])
+  ("res" .
+   [19 0 0])
+  ("body" .
+   [9 0 0 0])
+  ("to_json" .
+   [1 0 0 0 1 0 0])
+  ("request_method" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("then" .
+   [17 0 0 0])
+  ("id" .
+   [33 0])
+  ("req" .
+   [3 0 0])
+  ("query" .
+   [5 0 0 0 0])
+  ("parse" .
+   [4 0 0 0 0])
+  ("execute" .
+   [2 0 0 0 0 2 0])
+  ("JSON" .
+   [4 0 0 0])
+  ("break" .
+   [29 0 0 0 0])
+  (":posts" .
+   [0 0 0 1 0 0])
+  ("GameObject" .
+   [6 0 0 0 0 0 1 0 0 4])
+  ("try" .
+   [8 0 0])
+  ("GetComponent" .
+   [12 0 0 0 1 0 7 2 1 0 0 11])
+  ("delegate" .
+   [5 0 0 0 0 0 0 1])
+  ("StartCommunication" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("gets" .
+   [2 0 0 0])
+  ("isPrimeNumber" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("rank" .
+   [70 0 0 0])
+  ("suit" .
+   [35 0 0 0])
+  ("module" .
+   [6 0 0 0 0 1])
+  ("to_s" .
+   [38 0 2 1])
+  ("rank_to_s" .
+   [0 0 0 0 0 0 0 0 1])
+  ("suit_to_s" .
+   [0 0 0 0 0 0 0 1 0])
+  ("prob" .
+   [2 0 0 0])
+  ("testFactory" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("Aggregate" .
+   [0 0 0 0 0 0 0 0 2])
+  ("protoType_" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("AbstractProductList" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0])
+  ("TypeAt" .
+   [0 0 0 0 0 1])
+  ("MakeTypelist" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("ConcreteProduct" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("relations" .
+   [1 0 0 0 2 0 0 0 1])
+  ("abstract_classes" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("abst" .
+   [2 0 0 0])
+  ("Error" .
+   [2 0 0 0 0])
+  ("concrete" .
+   [1 0 0 0 1 0 2 0])
+  ("superclass" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("AbstractFactory" .
+   [1 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("A1" .
+   [2 0])
+  ("B1" .
+   [2 0])
+  ("Factory1" .
+   [1 0 0 0 0 0 0 0])
+  ("private" .
+   [124 0 0 0 0 1 2])
+  ("ByEqualProbability" .
+   [0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("updateOnAddPrototype" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("prototype_counter" .
+   [0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("decision_maker" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("update_on_add_prototype" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("probabilities" .
+   [0 0 0 0 0 0 0 0 0 0 2 0 3])
+  ("probabilit" .
+   [0 0 0 0 0 0 0 0 0 3])
+  ("ByNormalizingProbability" .
+   [0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("cumulative_probability" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("sum_of_probabilities" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("WithPossibleReturningNil" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("UsingConstructor" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("Pikachu" .
+   [0 0 0 0 0 0 3])
+  ("Cloning" .
+   [0 0 0 0 0 0 1])
+  ("prototype_" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("setPrototype" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("BinaryData" .
+   [0 0 0 0 0 1 0 0 0 49])
+  ("logicalRegisterNumber_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("Operand" .
+   [0 0 1 0 0 0 2])
+  ("first" .
+   [2 0 0 0 1])
+  ("builder" .
+   [0 0 0 0 0 0 1])
+  ("UsingLambda" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("setLambda" .
+   [0 0 0 0 0 0 0 0 1])
+  ("constructor" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("define_method" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("attr_accessor" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("syms" .
+   [0 0 0 1])
+  ("define_setter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("array" .
+   [14 0 0 0 0])
+  ("FactoryKey" .
+   [0 0 0 0 0 0 0 0 0 3])
+  ("Pokemon" .
+   [4 0 0 0 0 0 2])
+  ("PokemonFactory" .
+   [1 0 0 0 0 0 0 5 0 0 0 0 0 2])
+  ("Weedle" .
+   [1 0 0 0 0 0])
+  ("HostClass" .
+   [0 0 0 0 0 0 0 0 1])
+  ("IsReference" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("Prime" .
+   [1 0 0 0 0])
+  ("max" .
+   [13 0 0])
+  ("line" .
+   [2 0 0 0])
+  ("printf" .
+   [1 0 0 0 0 1])
+  ("border" .
+   [1 0 0 0 0 0])
+  ("select" .
+   [3 0 0 0 0 0])
+  ("times" .
+   [7 0 0 0 0])
+  ("each_index" .
+   [5 0 0 0 2 0 0 1 0 0])
+  ("push" .
+   [1 0 0 0])
+  ("size" .
+   [60 0 0 1])
+  ("Defined" .
+   [0 0 0 0 0 0 114])
+  ("identifier" .
+   [0 0 0 0 0 0 0 0 0 3])
+  ("Elf32_Halfe_ehsize" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 7])
+  ("char" .
+   [2 0 0 0])
+  ("Elf64_Halfe_type" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 9])
+  ("Elf64_Offe_phoff" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 3])
+  ("Elf64_Worde_version" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 10])
+  ("defined" .
+   [0 0 0 0 0 0 130])
+  ("Defined8_50049" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 23])
+  ("Elf32_Worde_flags" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 21])
+  ("Elf32_Offe_shoff" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 2])
+  ("Elf32_Addrp_vaddr" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 5])
+  ("Elf64_Addre_entry" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 6])
+  ("Elf64_Xwordp_filesz" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 11])
+  ("defines" .
+   [0 0 0 0 0 0 7])
+  ("archType_" .
+   [0 0 0 0 0 0 0 0 2])
+  ("setValueAs" .
+   [0 0 0 0 0 0 0 0 0 1])
+  ("binary" .
+   [4 0 0 0 0 8])
+  ("programCounter_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("code_" .
+   [0 0 0 0 3])
+  ("ConditionFieldDecoder" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("DataProcessing" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("mask" .
+   [4 0 0 1])
+  ("IBit" .
+   [0 0 0 1])
+  ("ShifterOperandDecoder" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("decode" .
+   [0 0 0 0 0 1])
+  ("mnemonic" .
+   [0 0 0 0 0 0 0 1])
+  ("physicalRegisterNumber_" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("getValueFrom" .
+   [0 0 0 0 0 0 0 0 0 0 0 1])
+  ("RegisterFile" .
+   [0 0 0 0 0 0 0 0 0 0 0 3])
+  ("binaryTemplate" .
+   [1 0 0 0 1 0 0 0 0 1 0 0 0 0])
+  ("increment" .
+   [2 0 0 0 0 0 0 0 3])
+  ("isBranch" .
+   [0 0 0 0 0 0 0 1])
+  ("prepare" .
+   [1 0 0 0 0 0 0])
+  ("db" .
+   [1 0])
+  ("each_hash" .
+   [1 0 0 0 2 0 0 0 0])
+  ("statement" .
+   [1 0 0 0 0 0 0 0 0])
+  ("connection" .
+   [0 0 0 0 1 0 1 0 0 0])
+  ("password" .
+   [1 0 0 0 4 0 2 0])
+  ("get_user" .
+   [0 0 0 1 1 0 0 2])
+  ("users" .
+   [5 0 0 0 0])
+  ("user" .
+   [46 0 0 0])
+  ("use" .
+   [1 0 0])
+  ("password_check" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("include?" .
+   [0 0 0 0 0 0 0 2])
+  ("get_user_of" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("db_user" .
+   [0 0 0 0 0 0 1])
+  ("db_password" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("db_name" .
+   [1 0 0 0 0 0 0])
+  (":SPADE" .
+   [1 0 0 0 0 0])
+  ("J" .
+   [1])
+  ("client" .
+   [6 0 0 0 0 2])
+  ("target" .
+   [10 0 0 0 2 2])
+  ("Test0" .
+   [1 0 0 0 0])
+  ("Test1" .
+   [1 0 0 0 0])
+  ("Test2" .
+   [1 0 0 0 0])
+  ("get" .
+   [56 0 0])
+  ("has_responsibility_for?" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("associations" .
+   [0 0 0 0 0 0 0 0 0 0 0 2])
+  ("create_from" .
+   [0 0 0 0 0 0 0 0 0 0 1])
+  ("RANKS" .
+   [1 0 0 0 0])
+  ("Three" .
+   [0 0 0 0 1])
+  ("sequence_counter" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 4])
+  ("initial_rank" .
+   [0 0 0 0 0 0 0 1 0 0 0 1])
+  ("next_rank" .
+   [0 0 0 0 0 0 0 0 1])
+  ("next_card_is_A" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("loses_to" .
+   [0 0 0 0 0 0 0 2])
+  ("ties_with" .
+   [0 0 0 0 0 0 0 0 1])
+  ("next" .
+   [6 0 0 1])
+  ("StraightFlush" .
+   [0 0 0 0 1 0 0 0 0 0 1 0 0])
+  ("pocket_cards" .
+   [0 0 0 0 1 2 1 2 0 0 0 0])
+  ("community_cards" .
+   [0 0 0 0 2 1 0 2 0 2 0 0 0 0 1])
+  ("pockets" .
+   [1 0 0 0 0 0 0])
+  ("exec" .
+   [1 0 0 1])
+  ("last" .
+   [5 0 0 0])
+  ("sort" .
+   [3 0 0 0])
+  ("xrange" .
+   [0 0 0 0 2 0])
+  ("fib" .
+   [1 0 0])
+  ("fib2" .
+   [1 0 0 0])
+  ("from" .
+   [6 0 0 0])
+  ("sin" .
+   [1 0 0])
+  ("radians" .
+   [0 0 0 0 0 0 1])
+  ("sqlite3" .
+   [0 0 0 0 0 0 1])
+  ("sql" .
+   [11 0 0])
+  ("connector" .
+   [0 0 0 0 0 0 0 0 1])
+  ("final" .
+   [2 0 0 0 0])
+  ("int" .
+   [149 0 0])
+  ("main" .
+   [2 0 0 0])
+  ("public" .
+   [192 0 1 1 0 1])
+  ("System" .
+   [39 1 0 1 0 0])
+  ("println" .
+   [14 0 0 0 0 2 0])
+  ("10000" .
+   [2 0 0 0 0])
+  ("Foo" .
+   [1 0 0])
+  ("obj" .
+   [8 0 0])
+  ("foo" .
+   [1 0 0])
+  ("bar" .
+   [1 0 0])
+  ("require_relative" .
+   [0 0 0 0 0 0 0 0 1 0 2 0 0 0 0 0])
+  ("unittest" .
+   [2 0 0 0 0 0 0 0])
+  ("pass" .
+   [2 0 0 0])
+  ("Hoge" .
+   [1 0 0 0])
+  ("scala-mode2" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("sprite" .
+   [15 0 0 0 0 0])
+  ("null" .
+   [65 0 0 0])
+  ("var" .
+   [188 0 1])
+  ("Image" .
+   [12 0 0 0 0])
+  ("image" .
+   [7 0 0 0 0])
+  ("RectTransform" .
+   [0 0 0 0 5 3 0 1 0 0 0 0 0])
+  ("GetPixelAdjustedRect" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("ActiveRecord::Base" .
+   [0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Bookmark" .
+   [0 0 0 0 1 1 2 0])
+  ("create" .
+   [3 0 0 0 2 0])
+  ("bookmark" .
+   [0 0 0 0 0 0 0 1])
+  ("all" .
+   [6 0 0])
+  ("File" .
+   [2 0 0 0])
+  ("expand_path" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("join" .
+   [1 0 0 0])
+  ("root" .
+   [1 0 0 0])
+  ("erb" .
+   [2 0 0])
+  ("create!" .
+   [1 0 0 0 0 0 0])
+  ("url:" .
+   [1 0 0 0])
+  ("params" .
+   [2 0 0 0 0 0])
+  ("url" .
+   [1 0 0])
+  ("rescue" .
+   [0 0 0 0 0 1])
+  (":new" .
+   [1 0 0 0])
+  ("gem" .
+   [1 0 0])
+  ("float" .
+   [25 0 0 0 0])
+  ("speed" .
+   [1 0 0 0 0])
+  ("rigidbody2D" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("velocity" .
+   [0 0 0 0 1 0 0 0])
+  ("Input" .
+   [1 0 0 0 1])
+  ("GetKey" .
+   [1 0 0 0 0 0])
+  ("KeyCode" .
+   [1 0 0 0 0 0 0])
+  ("transform" .
+   [24 0 0 0 2 7 0 0 1])
+  ("localScale" .
+   [2 0 0 0 0 1 2 0 2 0])
+  ("Vector2" .
+   [2 0 0 0 0 0 4])
+  ("pos" .
+   [2 0 0])
+  ("anim" .
+   [2 0 0 0])
+  ("Animator" .
+   [1 0 0 0 0 0 0 0])
+  ("Screen" .
+   [1 0 0 0 0 0])
+  ("bool" .
+   [21 0 0 0])
+  ("Log" .
+   [132 0 0])
+  ("Debug" .
+   [166 0 0 0 0])
+  ("C++" .
+   [1 0 0])
+  ("Base" .
+   [39 0 0 0])
+  ("Sub1" .
+   [9 0 0 0])
+  ("std" .
+   [57 0 0])
+  ("Sub2" .
+   [6 0 0 0])
+  ("auto" .
+   [12 0 0 0])
+  ("method" .
+   [10 0 0 0 0 1])
+  ("endl" .
+   [17 0 0 0])
+  ("WWWClient" .
+   [2 0 0 0 1 0 3 0 3])
+  ("WWW" .
+   [16 0 0])
+  ("Instance" .
+   [10 0 1 4 0 7 12 3])
+  ("enum" .
+   [8 0 0 0])
+  ("Host" .
+   [0 0 0 1])
+  ("SerializeField" .
+   [1 0 0 0 1 0 1 4 0 3 0 1 1 3])
+  ("path" .
+   [15 0 0 0])
+  ("callBack" .
+   [8 0 0 0 2 2 9 0])
+  ("SimMj" .
+   [1 0 0 0 0])
+  ("common" .
+   [1 0 0 0 0 0])
+  ("assert" .
+   [1 0 0 0 0 0])
+  ("val" .
+   [73 0 0])
+  ("hai" .
+   [23 0 0])
+  ("Hai" .
+   [27 0 0])
+  ("manzu" .
+   [1 0 0 0 0])
+  ("add" .
+   [10 0 0])
+  ("sub" .
+   [1 0 0])
+  ("mod" .
+   [1 0 0])
+  ("IsZero" .
+   [0 0 0 0 3 0])
+  ("eval1" .
+   [2 0 0 0 0])
+  ("Pred" .
+   [4 0 0 0])
+  ("Succ" .
+   [3 0 0 0])
+  ("Zero" .
+   [1 0 0 0])
+  ("False" .
+   [5 0 0 0 0])
+  ("newTerm" .
+   [3 0 0 0 2 1 0])
+  ("t" .
+   [2])
+  ("factoryMethods" .
+   [0 0 0 0 0 0 0 1 1 0 0 0 0 0])
+  ("Unit" .
+   [1 0 0 0])
+  ("methods" .
+   [12 0 0 0 0 0 0])
+  ("scala" .
+   [3 0 0 0 0])
+  ("mt" .
+   [3 0])
+  ("MersenneTwister" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("seed" .
+   [9 0 0 1])
+  ("nextInt" .
+   [5 0 0 0 0 0 3])
+  ("Random" .
+   [5 0 0 0 0 1])
+  ("MethodWithProbability" .
+   [0 0 0 0 0 1 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Float" .
+   [1 0 0 0 0])
+  ("to" .
+   [6 0])
+  ("random" .
+   [5 0 0 0 0 0])
+  ("args" .
+   [7 0 0 0])
+  ("toInt" .
+   [1 0 0 0 1])
+  ("EqualProbability" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0])
+  ("FactoryByEqualProbability" .
+   [0 0 0 0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("percentages" .
+   [1 0 0 0 0 0 0 0 3 0 1])
+  ("FactoryByPercentage" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("30" .
+   [1 0])
+  ("Exception" .
+   [4 0 8 0 5 8 1 0 3])
+  ("canCreateProduct" .
+   [0 0 0 0 2 0 0 0 0 1 0 0 0 0 0 0])
+  ("Boolean" .
+   [5 0 0 0 0 0 0])
+  ("getRandomValue" .
+   [0 0 0 0 0 0 4 0 0 0 0 0 0 0])
+  ("randomValue" .
+   [1 0 0 0 0 0 1 0 2 0 4])
+  ("createFrom" .
+   [1 0 0 0 0 0 0 1 0 0])
+  ("java" .
+   [3 0 0 0])
+  ("javax" .
+   [1 0 0 0 0])
+  ("play" .
+   [9 0 0 0])
+  ("validation" .
+   [2 0 0 0 0 0 0 0 0 0])
+  ("Date" .
+   [1 0 0 0])
+  ("Long" .
+   [3 0 0 0])
+  ("Message" .
+   [13 0 0 0 0 1 1])
+  ("Finder" .
+   [1 0 0 0 0 0])
+  ("message" .
+   [14 0 0 0 0 0 0])
+  ("date" .
+   [1 0 0 0])
+  ("postdate" .
+   [0 0 0 0 1 0 0 0])
+  ("util" .
+   [1 0 0 0])
+  ("models" .
+   [1 0 0 0 0 0])
+  ("List" .
+   [42 0 0 0])
+  ("find" .
+   [4 0 0 0])
+  ("datas" .
+   [1 0 0 0 0])
+  ("Result" .
+   [24 0 0 0 0 1])
+  ("ok" .
+   [1 0])
+  ("data" .
+   [49 0 0 0])
+  ("renderer" .
+   [1 0 0 0 0 0 0 0])
+  ("Form" .
+   [1 0 0 0])
+  ("render" .
+   [3 0 0 0 0 0])
+  ("ebean" .
+   [1 0 0 0 0])
+  ("@Required" .
+   [0 0 0 0 0 0 1 0 0])
+  ("Hello" .
+   [2 0 0 0 0])
+  ("World" .
+   [1 0 0 0 0])
+  ("is" .
+   [6 0])
+  ("acEqualPatterns" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("math" .
+   [1 0 0 0])
+  ("Yaku" .
+   [11 0 0 1])
+  ("consistsOf" .
+   [0 0 0 0 0 1 1 0 0 0])
+  ("members" .
+   [3 0 0 0 0 0 1])
+  ("sealed" .
+   [7 0 0 0 1 0])
+  ("match" .
+   [0 0 0 0 1])
+  ("Kotsu" .
+   [1 0 1 1 0])
+  ("isKantsu" .
+   [1 0 0 0 0 1 0 0])
+  ("Shuntsu" .
+   [2 0 0 0 3 1 0])
+  ("isKotsu" .
+   [1 0 0 0 1 0 0])
+  ("isOpened" .
+   [0 0 0 0 0 0 1 0])
+  ("shuntsu" .
+   [1 0 0 0 0 0 0])
+  ("isShuntsu" .
+   [0 0 0 0 0 0 1 0 0])
+  ("kotsu" .
+   [2 0 0 0 0])
+  ("Kantsu" .
+   [0 0 0 0 1 1])
+  ("Wh" .
+   [1 0])
+  ("list" .
+   [21 0 0 0])
+  ("mutable" .
+   [1 0 0 0 0 0 0])
+  ("SuAnko" .
+   [1 0 0 0 2 0])
+  ("YakuObject" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("Toitsu" .
+   [1 0 0 2 0 0])
+  ("Ea" .
+   [1 0])
+  ("kotsu0" .
+   [0 0 0 0 0 3])
+  ("kotsu3" .
+   [0 0 0 0 1 0])
+  ("HaiSet" .
+   [0 0 0 0 0 1])
+  ("sangenpai" .
+   [0 0 0 0 0 0 1 0 0])
+  ("toitsu" .
+   [1 0 0 1 0 0])
+  ("m" .
+   [2])
+  ("mentsu" .
+   [8 0 0 1 0 0])
+  ("mentsu0" .
+   [2 0 0 0 0 0 0])
+  ("json:" .
+   [1 0 0 0 0])
+  ("games" .
+   [2 0 0 0 0])
+  ("results" .
+   [1 0 0 0 0 0 0])
+  ("score" .
+   [1 0 0 0 0])
+  ("created_at" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("GameSeries" .
+   [0 0 0 0 0 0 0 0 0 2])
+  ("where" .
+   [10 0 0 0 0])
+  (":user" .
+   [1 0 0 0 0])
+  (":game" .
+   [1 0 0 0 0])
+  ("game_series" .
+   [0 0 0 0 0 0 1 0 0 0 0])
+  ("id:" .
+   [1 0 0])
+  (":user_id" .
+   [1 0 0 0 0 0 0 0])
+  ("user_id:" .
+   [1 0 0 0 0 0 0 0])
+  ("s" .
+   [6])
+  ("_instance" .
+   [9 0 0 0 2 1 2 8 0])
+  ("SingletonBehaviour" .
+   [0 0 0 1 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("isRemote" .
+   [0 0 0 1 0 0 3 0])
+  ("UnityEngine" .
+   [13 0 0 0 0 2 3 4 0 0 3])
+  ("DataTable" .
+   [0 0 0 0 0 1 0 0 0])
+  ("ExecuteQuery" .
+   [1 0 1 0 0 0 0 0 0 0 0 1])
+  ("sqlDB" .
+   [1 0 0 0 1])
+  ("DataRow" .
+   [0 0 0 0 0 1 0])
+  ("tableName" .
+   [1 0 0 0 0 0 0 0 1])
+  ("Find" .
+   [2 0 0 0])
+  ("CanvasGroup" .
+   [0 0 0 1 0 0 0 0 0 0 0])
+  ("blocksRaycasts" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("DragMove" .
+   [3 0 0 1 0 0 0 0])
+  ("Current" .
+   [13 0 0 2 2 5 3])
+  ("MyPurchasingModule" .
+   [1 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("IAPManager" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("product" .
+   [2 0 0 0 0 1 0])
+  ("_storeController" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("products" .
+   [0 0 0 0 0 0 0 1])
+  ("cost" .
+   [28 0 0 0])
+  ("a" .
+   [1])
+  ("klass" .
+   [3 0 0 0 0])
+  ("attr_reader" .
+   [0 0 0 1 3 0 0 0 0 0 0])
+  (":cost" .
+   [10 0 0 0 0])
+  ("SampleCard" .
+   [3 0 0 0 0 0 1 0 1 0])
+  ("instance_eval" .
+   [1 0 0 0 0 0 0 0 0 2 0 0 0])
+  ("sym" .
+   [1 0 0])
+  ("remove" .
+   [1 0 0 0 0 0])
+  ("eval" .
+   [8 0 0 0])
+  ("symbol" .
+   [1 0 0 1 0 0])
+  ("price" .
+   [3 0 0 0 0])
+  ("refine" .
+   [1 0 0 0 0 0])
+  ("subclass" .
+   [1 0 0 0 0 0 0 1])
+  ("ObjectSpace" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("subclasses" .
+   [3 0 0 0 0 0 0 0 0 1])
+  ("unless" .
+   [2 0 0 0 0 0])
+  ("cls" .
+   [1 0 0])
+  ("Object" .
+   [2 0 0 0 0 0])
+  ("add_instance_method" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0])
+  (":price" .
+   [1 0 0 0 0 0])
+  ("singleton_class" .
+   [3 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("instance_methods" .
+   [4 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Stack" .
+   [7 0 0 0 0])
+  ("_elements" .
+   [1 0 0 0 0 1 1 3 0])
+  ("stack" .
+   [4 0 0 0 0])
+  ("Push" .
+   [2 0 1 0])
+  ("ToString" .
+   [33 0 0 0 4 3 0 1])
+  ("foreach" .
+   [11 0 0 0 0 7 0])
+  ("VirtualMachine" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 1])
+  ("_stack" .
+   [1 0 0 0 0 0])
+  ("vm" .
+   [3 0])
+  ("as" .
+   [11 0])
+  ("_image" .
+   [19 0 0 0 0 0])
+  ("Sprite" .
+   [4 0 0 0 0 0])
+  ("_sprites" .
+   [3 0 0 0 0 0 0 2])
+  ("Dictionary" .
+   [10 0 0 1 0 1 2 24 6 6])
+  ("SetParent" .
+   [2 0 0 0 0 0 0 0 0])
+  ("CardDragItem" .
+   [0 0 0 0 0 0 0 3 0 0 0 0])
+  ("localPosition" .
+   [0 0 0 0 0 0 0 2 0 0 0 0 0])
+  ("Vector3" .
+   [5 0 0 0 0 0 1])
+  ("zero" .
+   [1 0 0 0])
+  ("one" .
+   [1 0 0])
+  ("parent" .
+   [3 0 0 0 0 0])
+  ("Name" .
+   [43 0 0 0])
+  ("PointerEventData" .
+   [1 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("_latestData" .
+   [0 0 0 1 0 2 0 0 0 0 0])
+  ("position" .
+   [4 0 0 0 0 0 0 0])
+  ("KingdomCards" .
+   [0 0 0 0 0 1 0 0 0 1 0 0])
+  ("Cost" .
+   [2 0 0 0])
+  ("GetType" .
+   [10 0 0 0 0 0 1])
+  ("cardType" .
+   [0 0 0 0 0 0 1 0])
+  ("interval" .
+   [1 0 0 0 0 0 0 0])
+  ("Repeat" .
+   [1 0 0 0 0 0])
+  ("action" .
+   [8 0 0 0 0 0])
+  ("Destroy" .
+   [1 0 0 0 0 0 0])
+  ("OnEndDrag" .
+   [0 0 0 0 0 0 1 0 0])
+  ("convenience" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("newValue" .
+   [1 0 0 0 0 0 0 1])
+  ("oldValue" .
+   [1 0 0 0 0 0 0 0])
+  ("Get" .
+   [21 0 1])
+  ("Json" .
+   [22 0 0 0])
+  ("SerializeOther" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Serialize" .
+   [4 0 0 0 0 0 0 3 5])
+  ("Deserialize" .
+   [0 0 0 1 3 0 0 0 1 0 1])
+  ("DefaultRet" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("JsonUtility" .
+   [0 0 0 0 0 2 2 4 0 2 0])
+  ("FromJson" .
+   [3 0 0 0 0 4 0 0])
+  ("userDict" .
+   [1 0 0 0 0 0 0 0])
+  ("CallBack" .
+   [7 0 0 0 1 0 3 0])
+  ("u" .
+   [1])
+  ("back" .
+   [1 0 0 0])
+  ("dict" .
+   [54 0 0 0])
+  ("isPost" .
+   [0 0 0 0 1 0])
+  ("www" .
+   [10 0 0])
+  ("onSucceeded" .
+   [1 0 0 0 3 2 3 1 0 0 0])
+  ("WaitForRequest" .
+   [3 0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("Tools" .
+   [1 0 0 0 0])
+  ("Lib" .
+   [12 0 0])
+  ("LoginController" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 0])
+  ("userInstance" .
+   [0 0 0 0 0 0 2 0 0 0 0 0])
+  ("NotificationBadge" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("GetCount" .
+   [0 0 0 0 0 0 1 1])
+  ("_position" .
+   [1 0 0 0 0 2 0 0 0])
+  ("_badgePrefab" .
+   [0 0 0 0 0 0 0 1 0 0 0 0])
+  ("resultList" .
+   [3 0 0 0 0 0 0 0 3 0])
+  ("WaitForRequestArra" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("WaitForRequestArray" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Monster" .
+   [0 0 0 0 0 0 1])
+  ("master" .
+   [5 0 0 0 0 0])
+  ("pokemon" .
+   [4 0 0 0 0 0 0])
+  ("IEnumerator" .
+   [2 0 0 0 0 0 3 0 0 0 0])
+  ("IEnumerable" .
+   [2 0 0 0 0 0 1 0 0 0 0])
+  ("_masterTable" .
+   [1 0 0 0 2 0 0 0 0 0 0 0])
+  ("ToArray" .
+   [3 0 0 0 0 0 0])
+  ("sample" .
+   [4 0 0 0 0 0])
+  ("exception" .
+   [3 0 1 0 0 0 0 0 0])
+  ("Times" .
+   [3 0 0 0 0])
+  ("Serializable" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("SerializableData" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 1 2 2])
+  ("MasterData" .
+   [1 0 0 0 0 0 4 1 0 2])
+  ("PokemonMaster" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0])
+  ("contents" .
+   [2 0 0 0 0 0 0 0])
+  ("_cache" .
+   [4 0 0 0 0 0])
+  ("single" .
+   [2 0 0 0 0 0])
+  ("field" .
+   [2 0 0 0 0])
+  ("FieldType" .
+   [0 0 0 0 0 0 0 1 0])
+  ("Int32" .
+   [1 0 0 0 0])
+  ("Read" .
+   [10 0 0 3])
+  ("Entity" .
+   [5 0 0 0 0 0])
+  ("key" .
+   [3 0 0])
+  ("_entityName" .
+   [1 0 0 0 0 0 0 0 0 0 1])
+  ("ToPruralForm" .
+   [0 0 0 0 0 1 0 0 0 0 0 0])
+  ("Extensions" .
+   [1 0 1 0 0 1 0 0 0 2])
+  ("ToSnake" .
+   [1 0 0 0 0 3 0])
+  ("_url" .
+   [1 0 1 0])
+  ("_masterPath" .
+   [0 0 0 0 1 0 0 0 0 0 0])
+  ("LimitedValue" .
+   [4 0 0 0 4 0 4 0 0 0 0 0])
+  ("MAX" .
+   [1 0 0])
+  ("Max" .
+   [25 0 2])
+  ("lhs" .
+   [30 0 0])
+  ("rhs" .
+   [7 0 0])
+  ("_current" .
+   [3 0 0 0 1 1 1 0])
+  ("Rate" .
+   [2 0 0 0])
+  ("Overflow" .
+   [0 0 1 0 3 1 0 0])
+  ("IsOverflowing" .
+   [0 0 0 1 0 0 0 0 0 0 0 0 0])
+  ("flatten" .
+   [7 0 0 0 0 0 0])
+  ("tmp" .
+   [1 0 0])
+  ("point" .
+   [2 0 0 0 0])
+  ("Table" .
+   [2 0 0 0 0])
+  ("buffer" .
+   [4 0 0 0 1 1])
+  ("synchronized" .
+   [0 0 0 3 0 0 0 0 0 0 0 0])
+  ("put" .
+   [1 0 0])
+  ("cake" .
+   [7 0 0 0])
+  ("InterruptedException" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("Thread" .
+   [1 0 0 0 0 1])
+  ("currentThread" .
+   [1 0 0 0 0 1 1 0 0 0 0 0 0])
+  ("getName" .
+   [2 0 0 0 0 0 0])
+  ("wait" .
+   [2 0 0 0])
+  ("length" .
+   [1 0 0 0 1 0])
+  ("notifyAll" .
+   [1 0 0 0 0 0 1 0 0])
+  ("take" .
+   [1 0 0 0])
+  ("e" .
+   [2])
+  ("throws" .
+   [2 0 0 0 0 0])
+  ("WebSocket" .
+   [1 0 0 0 0 1 0 0 9])
+  ("WebSocketSharp" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 1 0])
+  ("WSAddress" .
+   [0 0 0 1 0 0 0 0 0])
+  ("address" .
+   [1 0 0 0 0 0 0])
+  ("m2" .
+   [3 0])
+  ("m4" .
+   [1 0])
+  ("ton" .
+   [3 0 0])
+  ("Sanshokudojun" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("is_kotsu" .
+   [2 0 0 0 0 3 0 0])
+  ("is_opened" .
+   [0 0 0 0 0 1 0 0 0])
+  ("cdef" .
+   [4 0 0 0])
+  ("Mentsu" .
+   [1 0 0 2 0 0])
+  ("dora_hyojihai" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0])
+  ("cpdef" .
+   [1 0 0 0 0])
+  ("Decode" .
+   [2 0 0 0 2 0])
+  ("Ton" .
+   [2 0 0])
+  ("_deck" .
+   [4 0 0 0 0])
+  ("n" .
+   [1])
+  ("it" .
+   [5 0])
+  ("erase" .
+   [2 0 0 0 0])
+  ("Draw" .
+   [8 0 0 0])
+  ("haipai" .
+   [3 0 0 0 0 0])
+  ("M3" .
+   [1 0])
+  ("M4" .
+   [1 0])
+  ("M5" .
+   [1 0])
+  ("M6" .
+   [1 0])
+  ("M7" .
+   [1 0])
+  ("M8" .
+   [1 0])
+  ("M9" .
+   [2 0])
+  ("M5r" .
+   [1 0 0])
+  ("P5r" .
+   [1 0 0])
+  ("S5r" .
+   [1 0 0])
+  ("P1" .
+   [1 0])
+  ("P9" .
+   [1 0])
+  ("S1" .
+   [1 0])
+  ("Nan" .
+   [1 0 0])
+  ("Sha" .
+   [1 0 0])
+  ("Pe" .
+   [1 0])
+  ("Haku" .
+   [1 0 0 0])
+  ("Hatsu" .
+   [0 0 0 1 0])
+  ("Chun" .
+   [1 0 0 0])
+  ("Shuffle" .
+   [3 0 0 0 0 0 0])
+  ("3" .
+   [1])
+  ("CanBeAdvanced" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("CanBeComposedOf" .
+   [0 0 0 0 0 0 0 0 1 0 0 0 0 0 1])
+  ("tsumo" .
+   [6 0 0 0 0])
+  ("continue" .
+   [2 0 0 0 0 0 0 1])
+  ("junCounter" .
+   [0 0 0 0 1 0 0 0 0 0])
+  ("19" .
+   [5 0])
+  ("tsumohai" .
+   [1 0 0 0 0 0 1 2])
+  ("1" .
+   [1])
+  ("rnd" .
+   [1 0 0])
+  ("seed_gen" .
+   [1 0 0 0 0 0 0 0])
+  ("Tsumo" .
+   [0 0 0 1 0])
+  ("Tsuiso" .
+   [3 0 0 0 2 0])
+  ("_table" .
+   [1 0 0 0 0 0])
+  ("Rank" .
+   [17 0 0 0])
+  ("hyojihai" .
+   [0 0 0 1 0 0 0 0])
+  ("Recv" .
+   [4 0 0 1])
+  ("ws" .
+   [4 0])
+  ("Data" .
+   [3 0 0 0])
+  ("Uri" .
+   [1 0 0])
+  ("SendString" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("packer" .
+   [3 0 0 0 0 0])
+  ("Unpack" .
+   [2 0 0 0 0 1])
+  ("RawData" .
+   [1 0 1 3 0 3 0])
+  ("SingletonMonoBehaviour" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("InputController" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0])
+  ("event" .
+   [4 0 0 0 0])
+  ("EventSystem" .
+   [0 0 0 0 0 1 1 0 0 0 0])
+  ("InputManager" .
+   [1 0 0 0 0 0 0 0 1 0 0 0])
+  ("Math" .
+   [2 0 0 0])
+  ("atan" .
+   [3 0 0 0])
+  ("180" .
+   [1 0 0])
+  ("FilePath" .
+   [0 0 0 0 0 0 4 0])
+  ("SaveToFile" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("prizes" .
+   [2 0 0 0 0 0])
+  ("decinal" .
+   [1 0 0 0 0 0 0])
+  ("IsNew" .
+   [1 0 0 0 0])
+  ("_name" .
+   [1 0 0 0 0])
+  ("Put" .
+   [3 0 0])
+  ("ToArrayOf" .
+   [1 0 0 0 0 0 0 0 1])
+  ("Collections" .
+   [3 0 0 0 1 0 0 0 0 0 1])
+  ("Common" .
+   [2 0 0 0 0 0])
+  ("ToPluralForm" .
+   [0 0 0 0 1 0 0 0 0 0 0 0])
+  ("TimeSpan" .
+   [12 0 0 0 0 0 2 0])
+  ("_recoverySpeed" .
+   [4 0 0 0 0 0 0 0 0 0 0 2 1 1])
+  ("recoverySpeed" .
+   [2 0 0 0 0 0 0 0 0 0 2 1 0])
+  ("_recoveryTime" .
+   [3 0 0 0 0 0 0 0 3 0 0 0 2])
+  ("DateTime" .
+   [14 0 0 1 0 0 0 3])
+  ("Now" .
+   [13 0 0])
+  ("minites" .
+   [1 0 0 0 0 0 0])
+  ("Seconds" .
+   [11 0 0 0 0 3 0])
+  ("Stamina" .
+   [5 0 0 0 0 0 1])
+  ("FromMinutes" .
+   [0 0 0 0 0 0 0 0 1 0 0])
+  ("_stamina" .
+   [11 0 0 0 0 0 0 1])
+  ("_timer" .
+   [2 0 0 0 0 0])
+  ("Minutes" .
+   [1 0 0 0 0 0 0])
+  ("amount" .
+   [10 0 0 0 0 0])
+  ("Consume" .
+   [1 0 0 0 0 1 0])
+  ("FromSeconds" .
+   [2 0 0 0 0 0 1 0 0 1 0])
+  ("recoveryTime" .
+   [3 0 0 0 0 0 0 0 0 0 0 0])
+  ("IsFull" .
+   [5 0 0 0 0 0])
+  ("TotalSeconds" .
+   [3 0 0 0 0 1 0 0 1 0 0 0])
+  ("IsEmpty" .
+   [1 0 0 0 0 0 0])
+  ("Recover" .
+   [2 0 0 0 0 0 0])
+  ("50" .
+   [1 0])
+  ("25" .
+   [1 0])
+  ("timeToBeFull" .
+   [1 0 0 0 0 0 1 0 0 0 0 0])
+  ("TimeToBeFull" .
+   [0 0 0 0 0 0 0 1 2 0 0 0])
+  ("SecondsToRecovery1" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("RESTfullAPI" .
+   [1 0 0 0 1 0 0 0 0 0 0])
+  ("Rarity" .
+   [0 0 0 0 1 0])
+  ("OnReceived" .
+   [0 0 0 0 1 2 0 0 0 0])
+  ("MiniMessagePack" .
+   [0 0 0 0 0 0 1 0 0 0 0 0 0 0 2])
+  ("miniMessagePacker" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Player" .
+   [12 0 0 0 1 3])
+  ("button" .
+   [3 0 0 0 0 0])
+  ("Button" .
+   [2 0 0 0 0 0])
+  ("_makeLobbyButton" .
+   [0 0 0 0 0 1 0 1 0 0 0 0 0 0 0 0])
+  ("interactable" .
+   [0 0 0 0 0 0 1 1 0 0 0 1])
+  ("Method" .
+   [1 0 0 0 0 0])
+  ("_isMatching" .
+   [0 0 0 0 1 2 0 0 0 0 0])
+  ("_startMatchingButton" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("GetComponentInChildren" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 2 0 0 1 0 0 0 0])
+  ("Client" .
+   [1 0 0 2 0 0])
+  ("_buttons" .
+   [1 0 0 0 0 0 0 0])
+  ("SetActive" .
+   [0 0 0 0 0 1 0 0 0])
+  ("internal" .
+   [0 0 0 0 0 1 0 0])
+  ("PlayingCard" .
+   [12 0 0 0 0 0 0 0 0 0 0])
+  ("Game" .
+   [4 0 0 0])
+  ("Banker" .
+   [17 0 0 0 2 0])
+  ("Sum" .
+   [15 0 0])
+  ("lastCard" .
+   [1 0 0 1 2 0 2 1])
+  ("banker" .
+   [8 0 0 0 0 0])
+  ("Cards" .
+   [14 0 0 0 0])
+  ("game" .
+   [4 0 0 0])
+  ("Winner" .
+   [12 0 0 0 2 0])
+  ("_interval" .
+   [2 0 0 0 0 0 0 0 0])
+  ("IsBlackJack" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("IsSoft" .
+   [1 0 0 0 0 0])
+  ("ToList" .
+   [4 0 0 0 0 0])
+  ("remote_ip" .
+   [1 0 0 0 0 0 0 0 0])
+  ("MessagePack" .
+   [0 0 0 0 0 1 1 2 0 0 0])
+  ("unpack" .
+   [5 0 0 0 0 0])
+  (":binary" .
+   [1 0 0 0 0 0 0])
+  ("msg" .
+   [15 0 0])
+  ("to_msgpack" .
+   [0 0 0 0 0 1 1 1 0 0])
+  ("code" .
+   [1 0 0 0])
+  ("Chat" .
+   [1 0 0 0])
+  ("Sender" .
+   [1 0 0 0 0 0])
+  ("History" .
+   [1 0 0 1 0 0 0])
+  ("content" .
+   [18 0 0 0 0 0 0])
+  ("userName" .
+   [11 0 0 0 0 0 0 0])
+  ("_history" .
+   [1 0 0 0 1 0 0 0])
+  ("_messagePrefab" .
+   [0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("_content" .
+   [3 0 0 0 0 0 0 1])
+  ("_list" .
+   [8 0 0 0 0])
+  ("sizeDelta" .
+   [2 0 0 0 0 0 0 7 0])
+  ("heightPerContent" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0])
+  ("_sendButton" .
+   [0 0 0 0 0 0 0 1 0 0 0])
+  ("MaxHistory" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("contentHeight" .
+   [0 0 0 0 0 0 0 0 0 0 1 0 0])
+  ("GetComponentsInChildren" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0 0])
+  ("ContentSizeFitter" .
+   [1 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("contentSize" .
+   [2 0 0 0 0 0 0 0 0 3 0])
+  ("textHeight" .
+   [0 0 0 0 0 1 0 4 0 0])
+  ("height" .
+   [2 0 0 0 0 1])
+  ("ChatSample" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("FORMAT_MESSAGEPACK" .
+   [0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 0 0 0])
+  ("FORMAT_JSON" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("Ping" .
+   [1 0 0 0])
+  ("digit" .
+   [1 0 0 0 0])
+  ("_extension" .
+   [2 0 0 2 0 1 4 0 0 0])
+  ("Token" .
+   [1 0 0 0 0])
+  ("passWord" .
+   [0 0 0 0 0 1 1 1])
+  ("_userName" .
+   [0 0 0 0 0 0 0 0 1])
+  ("_password" .
+   [0 0 0 0 0 1 0 0 0])
+  ("downloadHandler" .
+   [0 0 0 0 1 0 0 0 0 1 0 1 0 0 0])
+  ("request" .
+   [3 0 0 0 0 1 0])
+  ("Load" .
+   [1 0 0 0])
+  ("login" .
+   [1 0 0 0 0])
+  ("token" .
+   [2 0 0 0 0])
+  ("afterToken" .
+   [0 0 0 0 0 0 0 1 0 0])
+  ("onError" .
+   [0 0 0 2 1 1 0])
+  ("ArrayJson" .
+   [1 0 0 0 0 0 0 0 0])
+  ("arrayJson" .
+   [1 0 0 0 0 0 1 0 1])
+  ("ArrayWrapper" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("Replace" .
+   [0 0 0 0 0 1 0])
+  ("ActiveRecord" .
+   [0 0 0 0 0 0 1 0 0 0 0 0])
+  ("SetSprite" .
+   [1 0 0 1 0 0 0 0 0])
+  ("_spriteRenderer" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("Grayout" .
+   [1 0 0 0 0 0 1])
+  ("white" .
+   [1 0 0 0 0])
+  ("Java::PlayingCards" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1 0 0 0 0 0])
+  ("java_import" .
+   [1 0 0 0 0 0 0 0 0 0 0])
+  ("CSVReader" .
+   [1 0 0 2 0 0 0 0 0])
+  ("_csvreader" .
+   [1 0 0 1 2 0 0 0 0 0])
+  ("to_string" .
+   [1 0 0 1 1 0 0 0 1])
+  ("dealersUpcardRank" .
+   [0 0 0 0 0 0 0 0 0 2 0 0 0 0 0 0 1])
+  ("isPair" .
+   [1 0 0 0 0 0])
+  ("playersHand" .
+   [4 0 0 0 0 0 0 1 0 0 1])
+  ("17" .
+   [1 0])
+  ("getContent" .
+   [1 0 0 0 0 0 1 0 0 0])
+  ("Hit" .
+   [5 0 0])
+  ("DoubleDown" .
+   [0 0 0 0 0 1 0 0 0 0])
+  ("Stand" .
+   [1 0 0 0 1])
+  ("Split" .
+   [0 0 0 0 1])
+  ("Surrender" .
+   [0 0 1 0 0 1 2 0 1])
+  ("dealersUpCard" .
+   [0 0 0 0 0 0 0 0 0 0 0 0 1])
+  ("isPairOf" .
+   [0 0 0 0 0 0 0 2])
+  ("canDoubleDownOrSurrender" .
+   [0 0 0 0 0 2 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("_isSurrendered" .
+   [0 0 0 1 0 3 0 0 0 0 0 0 0 0])
+  ("isSurrendered" .
+   [0 0 0 0 1 0 0 0 0 0 0 0 0])
+  ("pays" .
+   [1 0 0 0])
+  ("_hands" .
+   [4 0 0 0 0 0])
+  ("isBusted" .
+   [0 0 0 0 1 0 0 0])
+  ("currentHand" .
+   [0 0 0 0 0 0 0 0 0 1 1])
+  ("_bankroll" .
+   [0 0 0 0 0 1 0 0 0])
+  ("_betAmount" .
+   [0 0 0 0 0 0 1 0 0 0])
+  ("Rule" .
+   [1 0 0 0])
+  ("_hand" .
+   [1 0 0 0 0])
+  ("michael" .
+   [1 0 0 0 0 0 0])
+  ("reset_token" .
+   [2 0 0 0 0 0 0 0 0 0 0])
+  ("new_token" .
+   [1 0 0 0 0 0 0 0 0])
+  ("UserMailer" .
+   [1 0 0 0 0 0 0 0 0 0])
+  ("password_reset" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("assert_equal" .
+   [0 0 0 0 0 0 0 0 0 0 3 0])
+  ("subject" .
+   [1 0 0 0 0 0 0])
+  ("email" .
+   [2 0 0 0 0])
+  ("assert_match" .
+   [2 0 0 0 0 0 0 0 0 0 0 0])
+  ("encoded" .
+   [2 0 0 0 0 0 0])
+  ("CGI" .
+   [1 0 0])
+  ("escape" .
+   [1 0 0 0 0 0])
+  ("helm" .
+   [1 0 0 0])
+  ("ActionController" .
+   [0 0 0 0 0 0 0 0 0 1 0 0 0 0 0 0])
+  ("before_action" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("protect_from_forgery" .
+   [0 0 0 0 0 1 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("authenticate" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("auth_token" .
+   [1 0 0 0 0 1 0 0 0 0])
+  ("access_token" .
+   [1 0 0 0 0 0 0 0 0 0 0 0])
+  ("css-indent-offset" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])
+  ("scss-compile-at-save" .
+   [1 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0 0])))

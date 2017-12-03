@@ -1,0 +1,5 @@
+#name : foreach (... in ...) { ... }
+# --
+foreach(var ${1} in ${2}) {
+    $0
+}
