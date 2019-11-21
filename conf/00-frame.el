@@ -31,30 +31,22 @@
 (blink-cursor-mode 0)
 
 ;;; 現在行のハイライト
-(defface hlline-face
-  '((((class color) (background dark))
-     (:background "dark slate gray"))    
-    (((class color) (background light))
-     (:background  "light goldenrod yellow" t))
-    (t (:bold t)))
-  "hl-line's my face")
-(setq hl-line-face 'hlline-face)
 (global-hl-line-mode t)
+(setq hl-line-face 'underline)
 
 ;; 対応する括弧のハイライト
 (setq show-paren-delay 0)
 (show-paren-mode t)
-(setq show-paren-style 'expression)
-(set-face-background 'show-paren-match-face nil)
-(set-face-underline-p 'show-paren-match-face "yellow")
+(setq show-paren-style 'mixed)
 
 ;; バックアップファイルを作らない
 (setq make-backup-files nil)
+(setq auto-save-default nil)
 
 ;; オートセーブファイル作成までの秒間隔
-(setq auto-save-timeout 15)
+;;(setq auto-save-timeout 15)
 ;; オートセーブファイル作成までのタイプ間隔
-(setq auto-save-interval 60)
+;;(setq auto-save-interval 60)
 
 ;;ファイル名の補完で大文字小文字を区別しない
 (setq completion-ignore-case t)

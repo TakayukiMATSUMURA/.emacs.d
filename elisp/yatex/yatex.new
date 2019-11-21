@@ -1,6 +1,52 @@
 	What's new in YaTeX/yahtml
 	野鳥/yahtml - 各バージョンの変更点について
 
+1.80	string-to-int除外と同時に emacs-18 をサポート外に。
+	2-Clause BSDでもOKという風に書いてみた。
+	RCS管理を外した。
+	== yatex ==
+	ラベル補完バッファで M-e, M-i 等でラベル種の絞り込み可能。
+	dviからPS変換コマンドを少し丁寧に探すようにした。
+	mathbb, mathscr, mathrsfs, text, and, onslide, pause
+	YaTeX-math-other-env-alist-private で追加数式環境を足しやすくした。
+	YaTeX-electric-indent-mode で C-m での自動インデントを制御。
+	%#キーワードに追加: DVIPDF, PDFVIEW, IMAGEDPI(ワンタッチ更新も可)。
+	Beamer用の補完アドインを追加(原案谷村さん)。
+	YaTeX-kanji-code のデフォルトをnil(温存)に変更。
+	== yahtml ==
+	figure, iframe 対応。
+	a要素の属性補完を修正。
+	meta要素の属性補完を拡充、<meta charset="..."> に対応。
+	yahtml-kanji-code のデフォルトを4(UTF-8)に変更。
+
+1.79	別フレームに同一バッファがあるときのミニバッファ入力で、
+	ポイント位置がずれるEmacsの問題への対策を入れた。
+	=== yatex ===
+	数式環境など特定環境内の [prefix] t e で On-the-fly preview 発動。
+	環境に対する On-the-fly preview は編集中持続する。
+	持続中の On-the-fly preview の無効化は何もない場所で [prefix] k。
+	YaTeX-help-file のデフォルト位置を site-lisp/yatex/help/ に変更。
+	領域活性時に呼び出す補完は領域括りになるようにした。
+	タイプセットでPDF出力がありそうなときは次回previewをPDFヴューアに。
+	=== yahtml ===
+	領域活性時に呼び出す補完は領域括りになるようにした。
+	audio, video, label要素対応
+	datalistでidを補完対象に
+	文字実体参照補完([prefix] a)でタイプした文字を入力できるようにした。
+
+1.78	Drag&Dropサポートを追加。
+	tabular環境内で2連続以上Tabで、1カラム進む機能を追加。
+	=== yatex ===
+	主な外部コマンド名を変数化。
+	[prefix] t d の直後のデフォルトヴューアはPDF用のものに。
+	「%#!コマンド -オプション」のときは親ファイル指定なしと判定。
+	地の段落での [prefix] t g でヴューアの forward-search を試みる。
+	[prefix] t e の環境タイプセットの結果を可能なら画像に。
+	[prefix] t e を環境外で呼んだ場合はパラグラフをタイプセット。
+	[prefix] t e を領域活性状態で呼んだらその領域をタイプセット。
+	=== yahtml ===
+	table, ul, ol, dl 内で2連続以上Tabで、1カラム進む機能を追加。
+
 1.77	last-command-char 廃止対策を追加。
 	=== yatex ===
 	%#DVIPDF でdviからpdfへの変換コマンドを指定可能に。

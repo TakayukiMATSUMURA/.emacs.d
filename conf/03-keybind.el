@@ -21,6 +21,7 @@
 (define-key global-map "\C-c:" 'uncomment-region)    ; コメント解除
 (define-key global-map "\C-o" 'toggle-input-method)  ; 日本語入力切替
 (define-key global-map "\C-\\" nil)                  ; \C-\の日本語入力の設定を無効にする
+(define-key global-map (kbd "C-c r") 'quickrun)
 
 ;; redo+
 (when (require 'redo+ nil t)

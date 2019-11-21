@@ -3,6 +3,8 @@
 (require 'python-mode)
 (autoload 'python-mode "python-mode" nil t)
 
+(add-to-list 'auto-mode-alist '("\\.py\\'" . python-mode))
+
 (add-hook 'python-mode-hook
           (lambda ()
             (define-key python-mode-map "\"" 'electric-pair)

@@ -1,8 +1,8 @@
 ;;; yatexsec.el --- YaTeX sectioning browser
 ;;; 
-;;; (c) 1994-2013 by HIROSE Yuuji [yuuji@yatex.org]
-;;; Last modified Mon Apr  1 22:46:28 2013 on firestorm
-;;; $Id: yatexsec.el,v 1.77 2013/04/01 13:53:45 yuuji Rel $
+;;; (c) 1994-2017 by HIROSE Yuuji [yuuji@yatex.org]
+;;; Last modified Sun Dec 21 14:16:35 2014 on firestorm
+;;; $Id: yatexsec.el,v 6fd30c828f96 2017-09-10 21:38 +0859 yuuji $
 
 ;;; Code:
 (defvar YaTeX-sectioning-level
@@ -55,9 +55,9 @@ This must be the heighest number in YaTeX-sectioning-level.")
   (define-key YaTeX-sectioning-minibuffer-map "\C-r"
     'YaTeX-sectioning-scroll-down)
   (define-key YaTeX-sectioning-minibuffer-map "\C-w"
-    '(lambda () (interactive) (YaTeX-sectioning-scroll-down 1)))
+    (function (lambda () (interactive) (YaTeX-sectioning-scroll-down 1))))
   (define-key YaTeX-sectioning-minibuffer-map "\C-z"
-    '(lambda () (interactive) (YaTeX-sectioning-scroll-up 1)))
+    (function (lambda () (interactive) (YaTeX-sectioning-scroll-up 1))))
   (define-key YaTeX-sectioning-minibuffer-map "\C-l"
     'YaTeX-sectioning-recenter)
   (define-key YaTeX-sectioning-minibuffer-map "?"
@@ -134,7 +134,7 @@ This must be the heighest number in YaTeX-sectioning-level.")
 	   (and ln (string< "" ln)
 		(progn
 		  (goto-char (point-min))
-		  (forward-line (max 0 (- (string-to-int ln) 2)))
+		  (forward-line (max 0 (- (YaTeX-str2int ln) 2)))
 		  (and
 		   (search-forward ptn nil t)
 		   (goto-char (match-beginning 0)))))
@@ -345,7 +345,7 @@ Refers the YaTeX-read-section-in-minibuffer's local variable minibuffer-start."
       (set-buffer secbuf)
       (goto-char (point-max))
       (while (re-search-backward pattern nil t)
-	(if (< ln (string-to-int (YaTeX-match-string 1))) nil
+	(if (< ln (YaTeX-str2int (YaTeX-match-string 1))) nil
 	  (beginning-of-line)
 	  (search-forward YaTeX-ec)
 	  (looking-at YaTeX-TeX-token-regexp)

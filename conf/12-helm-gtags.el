@@ -18,6 +18,7 @@
 (local-set-key (kbd "C-t") 'helm-gtags-pop-stack)))
 
 (add-hook 'c++-mode-hook 'helm-gtags-mode)
+(add-hook 'go-mode-hook 'helm-gtags-mode)
 (add-hook 'java-mode-hook 'helm-gtags-mode)
 (add-hook 'php-mode-hook 'helm-gtags-mode)
 (add-hook 'ruby-mode-hook 'helm-gtags-mode)

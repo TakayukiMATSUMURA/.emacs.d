@@ -18,3 +18,5 @@
                
                (ac-alchemist-setup)
                ))
+
+(add-to-list 'auto-mode-alist '("\\.exs\\'" . elixir-mode))

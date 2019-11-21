@@ -6,7 +6,6 @@
 			 (c-set-offset 'innamespace 0)   ; namespace {}の中はインデントしない
 			 (c-set-offset 'arglist-close 0))) ; 関数の引数リストの閉じ括弧はインデントしない
 
-;(add-hook 'c-mode-common-hook
-;          '(lambda ()
-;             ;; RET キーで自動改行+インデント
-;             (setq c-auto-newline t)))
+(add-to-list 'auto-mode-alist '("\\.c\\'" . c++-mode))
+(add-to-list 'auto-mode-alist '("\\.y\\'" . c++-mode))
+(add-to-list 'auto-mode-alist '("\\.h\\'" . c++-mode))

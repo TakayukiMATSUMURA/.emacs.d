@@ -50,7 +50,8 @@
                   (setq namespace-list (reverse (split-string namespace "::")))
                   (setq namespace-text "")
                   (while namespace-list
-                    (setq namespace-text (concat namespace-text "} // " (car namespace-list)))
+                    ;;(setq namespace-text (concat namespace-text "} // " (car namespace-list)))
+                    (setq namespace-text (concat namespace-text "}"))
                     (setq namespace-list (cdr namespace-list))
                     )
                   (eval namespace-text))))))
